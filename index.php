@@ -76,7 +76,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="carousel-content text-center">
-                                    <h2>Nuestro objetivo principal es la satisfacción contínua de nuestros <span>Clients</span></h2>
+                                    <h2>Nuestro objetivo principal es la satisfacción contínua de nuestros <span>Clientes</span></h2>
                                     <p>Somos proveedores de equipos, partes, respuestos y materiales de redes de comunicaciones, redes eléctricas, seguridad industrial.</p>
                                     <!--<a class="btn btn-primary btn-lg" href="#">Read More</a>-->
                                 </div>
@@ -121,7 +121,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="carousel-content text-center">
-                                    <h2>Electro Sur Cia. Ltda., compañia legalmente<br> constituida y reconocida en el <span>Ecuador</span></h2>
+                                    <h2>Somos proveedores en materiales de redes de <span>comunicaciones</span>, <br>redes eléctricas, <span>seguridad industrial</span></h2>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et  dolore magna incididunt ut labore aliqua. </p>
                                     <!--<a class="btn btn-primary btn-lg" href="#">Read More</a>-->
                                 </div>
@@ -154,6 +154,7 @@
                     <a class="btn btn-primary" href="#">Leer más...</a>
 
                 </div>
+                <br>
                 <div class="col-sm-6 wow fadeInLeft">
                     <img class="img-responsive" src="images/feature-2.jpg" alt="">
                 </div>
@@ -384,7 +385,7 @@
         <div class="container">
             <div class="text-center">
                 <h2 class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">TOMASTE UNA DECISIÓN, <span>BIENVENIDO</span></h2>
-                <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms">Mauris pretium auctor quam. Vestibulum et nunc id nisi fringilla <br />iaculis. Mauris pretium auctor quam.</p>
+                <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms">Nuestro personal en ventas atenderá todos tus requerimientos. <br/>Te damos asesoria en todos nuestros productos.</p>
                 <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms"><a class="btn btn-primary btn-lg" href="#contact-area">Contáctenos</a></p>
             </div>
         </div>
@@ -588,14 +589,14 @@
                         <div class="carousel-inner" role="listbox">
                             <div class="item active">
                                 <p><img class="img-circle img-thumbnail" src="images/testimonial/01.jpg" alt=""></p>
-                                <h4>Louise S. Morgan</h4>
-                                <small>Treatment, storage, and disposal (TSD) worker</small>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam</p>
+                                <h4>Jose Catagua</h4>
+                                <small>Diseño y Desarrollo de Páginas Web y Proyectos Multimedia.</small>
+                                <p>Soy conocedor y defensor de los estándares, de la accesibilidad, de la usabilidad, de velar por la experiencia del usuario.</p>
                             </div>
                             <div class="item">
                                 <p><img class="img-circle img-thumbnail" src="images/testimonial/01.jpg" alt=""></p>
                                 <h4>Louise S. Morgan</h4>
-                                <small>Treatment, storage, and disposal (TSD) worker</small>
+                                <small>Gerente General Electro Sur</small>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam</p>
                             </div>
                         </div>
