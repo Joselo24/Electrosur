@@ -142,17 +142,14 @@
                 <p class="text-center wow fadeInDown">Electro Sur, es una compañía  con presencia Nacional e Internacional, dedicada a ofrecer soluciones de alta calidad,<br> manufactura y comercio, para las redes de telecomunicaciones.</p>
             </div>
 
-            <div class="row">
-                
-
+            <div class="row">            
                 <div class="col-sm-6 wow fadeInRight">
                     <h3 class="column-title">Sobre Nosotros</h3>
                     <p>Contamos con la experiencia de más de 20 años en el mercado y continúa el proceso de expansión, como una meta estratégica a mediano plazo. </p> 
 
                     <P>Dedicada al Diseño, Desarrollo, Producción, Distribución y Venta de productos Telefónicos para Redes de Cobre y Fibra Óptica. Los productos de Electro Sur Cia. Ltda., se desarrollan cumpliendo con los estándares de calidad exigibles; nuestro trabajo con la calidad nos ha proporcionado sostenibilidad y competitividad.</p>
 
-                    <a class="btn btn-primary" href="#">Leer más...</a>
-
+                    <button class="btn btn-primary" data-toggle="modal" data-target="#myModal">Leer más...</button>                            
                 </div>
                 <br>
                 <div class="col-sm-6 wow fadeInLeft">
@@ -160,6 +157,78 @@
                 </div>
             </div>
         </div>
+
+                 <!-- Modal -->
+          <div class="modal fade" id="myModal" role="dialog">
+            <div class="modal-dialog" style="width: 65%; height: auto;">
+            
+              <!-- Modal content-->
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal">×</button>
+                  <a><img src="images/prueba1.png"></a>                  
+                </div>
+
+                    <!-- Reseña - Mision - Vision - Valores de la Empresa -->
+                <div class="container">                  
+                  <ul class="nav nav-tabs">
+                    <li class="active"><a data-toggle="tab" href="#resena">Reseña</a></li>
+                    <li><a data-toggle="tab" href="#mision">Misión</a></li>
+                    <li><a data-toggle="tab" href="#vision">Visión</a></li>
+                    <li><a data-toggle="tab" href="#valores">Valores</a></li>
+                  </ul>
+
+                  <div class="tab-content">
+                    <div id="resena" class="tab-pane fade in active">          
+                            <div class="col-sm-5 fadeInRight">                                
+                                <p><br>Contamos con la experiencia de más de 20 años en el mercado y continúa el proceso de expansión, como una meta estratégica a mediano plazo. </p> 
+
+                                <P>Dedicada al Diseño, Desarrollo, Producción, Distribución y Venta de productos Telefónicos para Redes de Cobre y Fibra Óptica. Los productos de Electro Sur Cia. Ltda., se desarrollan cumpliendo con los estándares de calidad exigibles; nuestro trabajo con la calidad nos ha proporcionado sostenibilidad y competitividad.</p>
+                     
+                            </div>
+                            <div class="col-sm-5 fadeInRight"><br>
+                                <img class="img-responsive" src="images/feature-3.jpg" alt=""><br>
+                            </div>
+                    </div>
+
+                    <div id="mision" class="tab-pane fade">
+                      <h3>Menu 1</h3>
+                      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    </div>
+                    <div id="vision" class="tab-pane fade">
+                      <h3>Menu 2</h3>
+                      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+                    </div>
+                    <div id="valores" class="tab-pane fade">
+                      <h3>Menu 3</h3>
+                      <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                    </div>
+                  </div>
+                </div>
+                <!-- <div class="modal-body">
+                  <form role="form">
+                    <div class="form-group">
+                      <label for="psw"><span class="glyphicon glyphicon-shopping-cart"></span> Tickets, $23 per person</label>
+                      <input type="number" class="form-control" id="psw" placeholder="How many?">
+                    </div>
+                    <div class="form-group">
+                      <label for="usrname"><span class="glyphicon glyphicon-user"></span> Send To</label>
+                      <input type="text" class="form-control" id="usrname" placeholder="Enter email">
+                    </div>
+                      <button type="submit" class="btn btn-block">Pay 
+                        <span class="glyphicon glyphicon-ok"></span>
+                      </button>
+                  </form>
+                </div> -->
+                <div class="modal-footer">
+                  <button type="submit" class="btn btn-primary btn-default pull-left" data-dismiss="modal">Atras
+                  </button>
+                  <p>Need <a href="#">help?</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+
     </section><!--/#about-->
 
     <section id="portfolio">
@@ -183,10 +252,11 @@
                     <div class="portfolio-item-inner">
                         <img class="img-responsive" src="images/portfolio/01.jpg" alt="">
                         <div class="portfolio-info">
-                            <h3>Portfolio Item 1</h3>
+                            <h3>Abrazadera para poste - simple</h3>                            
                             <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
-                                <img src="images/portfolio/expand.png" alt="">
-                            </a>
+                                <img src="images/portfolio/expand.png" alt="">      
+                            </a><br>
+                            <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms"><a class="btn btn-primary btn-lg" href="https://drive.google.com/file/d/0B8ovhNUm2c1pUDEzM0EzSWpKN2c/view?usp=sharing" target="_blank">descargar ficha tecnica</a></p>
                         </div>
                     </div>
                 </div><!--/.portfolio-item-->
@@ -356,7 +426,7 @@
                         </div>
                     </div>
 
-                    <div class="col-sm-6 col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="600ms">
+                    <div class=" col-md-3  wow fadeInUp" data-wow-duration="300ms" data-wow-delay="600ms">
                         <div class="features-item">
                             <div class="features-icon">
                                 <i class="fa fa-laptop"></i>
@@ -439,7 +509,7 @@
                             <i class="fa fa-pie-chart"></i>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading">Hevilla Erivan</h4>
+                            <h4 class="media-heading">Hebilla Erivan</h4>
                             <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
                         </div>
                     </div>
@@ -575,10 +645,6 @@
 
 
 
-
-
-
-
     <section id="testimonial">
         <div class="container">
             <div class="row">
@@ -623,10 +689,46 @@
     <section id="contact-area">
         <div class="container">
             <div class="row">
+                <div class="col-md-6 w3ls-map">
+                    <p class="loc">Nuestra Ubicación</p>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7973.996061807228!2d-79.8906677!3d-2.1544355!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902d6da6ebbc93b1%3A0x7c53665379637bb1!2sELECTROSUR!5e0!3m2!1ses!2sec!4v1489673666123" width="550" height="300" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+                </div>
+                <div class="col-md-6 ">
+                        <p class="loc"> <br>Información de Contáctos</p>
+                                                
+                                <div class="media service-box wow fadeInRight">
+                                    <div class="pull-left">
+                                        <i class="fa fa-phone social-icons"></i>
+                                    </div>
+                                    <div class="media-body">                                      
+                                        <p><abbr title="Celular">C:</abbr> (593-9) 93620590 <br><abbr title="Teléfono">T:</abbr> (593-4) 2924 962 – 2924 941 - Ext. 101 <br>  <abbr title="Fax">F:</abbr> 2926 023  </p>
+                                    </div>
+                                </div>
+                                <div class="media service-box wow fadeInRight">
+                                    <div class="pull-left">
+                                        <i class="fa fa-map-marker social-icons"></i>
+                                    </div>
+                                    <div class="media-body">                                      
+                                        <p>Cdla. Simón Bolívar Mz. 1 Solar 10, <br>Calle Leopoldo Benítez y Av. 2N-E</p>
+                                    </div>
+                                </div>
+                                <div class="media service-box wow fadeInRight">
+                                    <div class="pull-left">
+                                        <i class="fa fa-envelope social-icons"></i>
+                                    </div>
+                                    <div class="media-body">                                      
+                                        <p><a href="mailto:ventas@electrosur.com.ec">ventas@electrosur.com.ec </a></p>
+                                        <p><a href="mailto:sofia@electrosur.com.ec"> sofia@electrosur.com.ec </a></p>
+                                    </div>
+                                </div>
+                                
+                                                
+                </div>
                 <div class="section-header">
-                    <h2 class="section-title text-center wow fadeInDown animated" style="visibility: visible;">Enviar Mensaje</h2>
+                    <h2 class="section-title text-center wow fadeInDown animated" style="visibility: visible;"><br>Enviar Mensaje</h2>
                     <p class="text-center wow fadeInDown animated" style="visibility: visible;">Escribenos unas lineas. Tus palabras son importantes para nosotros.</p>
                 </div>
+
                 <form id="main-contact-form" name="contact-form" method="post" action="#">
                     <div class="col-lg-6 animated animate-from-left" style="opacity: 1; left: 0px;">
 
@@ -666,9 +768,12 @@
     <footer id="footer">
         <div class="container">
             <div class="row">
-                <div class="col-sm-12">
-                    <p class="text-center">
-                        &copy; Todos los derechos reservados <a target="_blank" href="http://www.electrosur.com.ec" title="Free Twitter Bootstrap WordPress Themes and HTML templates"> - Electro Sur CIA. LTDA. 2017 </a>
+                <div class="col-sm-12 text-center">
+                    <a href="#home" title="Ir Arriba">
+                        <span class="fa fa-chevron-up social-icons"></span>
+                    </a>
+                    <p class="text-center"><br>
+                        &copy; Todos los derechos reservados <a target="_blank" href="http://www.electrosur.com.ec" title="Empresa de Telecomunicaciones"> - Electro Sur CIA. LTDA. 2017 </a>
                     </p>
                     
                     <ul class="social-icons text-center">
@@ -682,8 +787,10 @@
             </div>
         </div>
     </footer><!--/#footer-->
+    <!-- Paginas web y wordpress: Como Hacer Tu Pagina Web Con Wordpress (Curso Completo) -->
 
     <script src="js/jquery.js"></script>
+    <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>
     <script src="js/mousescroll.js"></script>

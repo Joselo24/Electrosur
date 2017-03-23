@@ -640,6 +640,23 @@ ul.nostyle i {
 #contact-area  .btn-send-msg {
   margin-top: 30px;
 }
+
+p.loc {
+  /*color: #286090;*/
+  color: #72C05B;
+  font-size: 1.3em;
+  font-weight: 400;
+  margin: 0px 0 10px 0px;
+}
+
+.w3ls-map iframe {
+  width: 100%;
+  min-height: 300px;
+  border: none;
+  -webkit-box-shadow: 0px 1px 16px 0px rgba(114, 192, 91, 1);
+  -moz-box-shadow: 0px 2px 25px 0px rgba(114, 192, 91, 1);
+  box-shadow: 0px 1px 16px 0px rgba(114, 192, 91, 0.7);
+}
 /***********************
 ********* Footer ******
 ************************/
