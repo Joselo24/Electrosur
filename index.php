@@ -171,7 +171,7 @@
 
                     <!-- Reseña - Mision - Vision - Valores de la Empresa -->
                 <div class="container">                  
-                  <ul class="nav nav-tabs">
+                  <ul class="nav nav-tabs" style="width: 88%;">
                     <li class="active"><a data-toggle="tab" href="#resena">Reseña</a></li>
                     <li><a data-toggle="tab" href="#mision">Misión</a></li>
                     <li><a data-toggle="tab" href="#vision">Visión</a></li>
@@ -192,12 +192,26 @@
                     </div>
 
                     <div id="mision" class="tab-pane fade">
-                      <h3>Menu 1</h3>
-                      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <div class="col-sm-5 fadeInRight">                                
+                            <p><br>Contamos con la experiencia de más de 20 años en el mercado y continúa el proceso de expansión, como una meta estratégica a mediano plazo. </p> 
+
+                            <P>Dedicada al Diseño, Desarrollo, Producción, Distribución y Venta de productos Telefónicos para Redes de Cobre y Fibra Óptica. Los productos de Electro Sur Cia. Ltda., se desarrollan cumpliendo con los estándares de calidad exigibles; nuestro trabajo con la calidad nos ha proporcionado sostenibilidad y competitividad.</p>
+                     
+                        </div>
+                        <div class="col-sm-5 fadeInRight"><br>
+                            <img class="img-responsive" src="images/feature-2.png" alt=""><br>
+                        </div>
                     </div>
                     <div id="vision" class="tab-pane fade">
-                      <h3>Menu 2</h3>
-                      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+                        <div class="col-sm-5 fadeInRight">                                
+                            <p><br>Contamos con la experiencia de más de 20 años en el mercado y continúa el proceso de expansión, como una meta estratégica a mediano plazo. </p> 
+
+                            <P>Dedicada al Diseño, Desarrollo, Producción, Distribución y Venta de productos Telefónicos para Redes de Cobre y Fibra Óptica. Los productos de Electro Sur Cia. Ltda., se desarrollan cumpliendo con los estándares de calidad exigibles; nuestro trabajo con la calidad nos ha proporcionado sostenibilidad y competitividad.</p>
+                     
+                        </div>
+                        <div class="col-sm-5 fadeInRight"><br>
+                            <img class="img-responsive" src="images/feature-2.jpg" alt=""><br>
+                        </div>
                     </div>
                     <div id="valores" class="tab-pane fade">
                       <h3>Menu 3</h3>
@@ -221,10 +235,10 @@
                   </form>
                 </div> -->
                 <div class="modal-footer">
-                  <button type="submit" class="btn btn-primary btn-default pull-left" data-dismiss="modal">Atras
-                  </button>
-                  <p>Need <a href="#">help?</a></p>
-                </div>
+                  <a class="btn pull-left" data-dismiss="modal">Atras
+                  </a>
+                  
+                </div> <!-- clas="modal-footer" -->
               </div>
             </div>
           </div>
@@ -250,13 +264,13 @@
             <div class="portfolio-items">
                 <div class="portfolio-item animation">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/01.jpg" alt="">
+                        <img class="img-responsive" src="images/portfolio/10.jpg" alt="">
                         <div class="portfolio-info">
                             <h3>Abrazadera para poste - simple</h3>                            
                             <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
                                 <img src="images/portfolio/expand.png" alt="">      
-                            </a><br>
-                            <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms"><a class="btn btn-primary btn-lg" href="https://drive.google.com/file/d/0B8ovhNUm2c1pUDEzM0EzSWpKN2c/view?usp=sharing" target="_blank">descargar ficha tecnica</a></p>
+                            </a>
+                           
                         </div>
                     </div>
                 </div><!--/.portfolio-item-->
@@ -769,7 +783,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 text-center">
-                    <a href="#home" title="Ir Arriba">
+                    <a class="smooth-scroll" data-section="#home" href="#home" title="Ir Arriba">
                         <span class="fa fa-chevron-up social-icons"></span>
                     </a>
                     <p class="text-center"><br>
@@ -791,7 +805,7 @@
 
     <script src="js/jquery.js"></script>
     <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <script src="js/bootstrap.min.js"></script> 
     <script src="js/owl.carousel.min.js"></script>
     <script src="js/mousescroll.js"></script>
     <script src="js/jquery.prettyPhoto.js"></script>
