@@ -153,14 +153,14 @@
                 </div>
                 <br>
                 <div class="col-sm-6 wow fadeInLeft">
-                    <img class="img-responsive" src="images/feature-2.jpg" alt="">
+                    <img class="img-responsive" src="images/feature-3.jpg" alt="">
                 </div>
             </div>
         </div>
 
                  <!-- Modal -->
           <div class="modal fade" id="myModal" role="dialog">
-            <div class="modal-dialog" style="width: 65%; height: auto;">
+            <div class="modal-dialog modal-lg" style="width: 65%; height: auto;">
             
               <!-- Modal content-->
               <div class="modal-content">
@@ -171,7 +171,7 @@
 
                     <!-- Reseña - Mision - Vision - Valores de la Empresa -->
                 <div class="container">                  
-                  <ul class="nav nav-tabs" style="width: 88%;">
+                  <ul class="nav nav-tabs" style="width: 50%;">
                     <li class="active"><a data-toggle="tab" href="#resena">Reseña</a></li>
                     <li><a data-toggle="tab" href="#mision">Misión</a></li>
                     <li><a data-toggle="tab" href="#vision">Visión</a></li>
@@ -255,14 +255,14 @@
             <div class="text-center">
                 <ul class="portfolio-filter">
                     <li><a class="active" href="#" data-filter="*">Todos</a></li>
-                    <li><a href="#" data-filter=".animation">Seguridad Industrial</a></li>
-                    <li><a href="#" data-filter=".Business">Fibra Optica</a></li>
-                    <li><a href="#" data-filter=".art">Cobre</a></li>
+                    <li><a href="#" data-filter=".fibra">Fibra Optica</a></li>
+                    <li><a href="#" data-filter=".cobre">Cobre</a></li>
+                    <li><a href="#" data-filter=".seguridad">Seguridad Industrial</a></li>
                 </ul><!--/#portfolio-filter-->
             </div>
 
             <div class="portfolio-items">
-                <div class="portfolio-item animation">
+                <div class="portfolio-item fibra">
                     <div class="portfolio-item-inner">
                         <img class="img-responsive" src="images/portfolio/10.jpg" alt="">
                         <div class="portfolio-info">
@@ -490,7 +490,7 @@
                 <div class="col-sm-6">
                     <div class="media service-box wow fadeInRight">
                         <div class="pull-left">
-                            <i class="fa fa-line-chart"></i>
+                            <img class="box-border img-responsive" src="images/portfolio/icon_herraje.png">
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading">Herrajerias</h4>
@@ -500,7 +500,7 @@
 
                     <div class="media service-box wow fadeInRight">
                         <div class="pull-left">
-                            <i class="fa fa-cubes"></i>
+                            <img class="box-border img-responsive" src="images/portfolio/icon_manga.png">
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading">Mangas</h4>
@@ -510,7 +510,7 @@
 
                     <div class="media service-box wow fadeInRight">
                         <div class="pull-left">
-                            <i class="fa fa-pie-chart"></i>
+                            <img class="box-border img-responsive" src="images/portfolio/icon_cajapresion.png">
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading">Caja de Presión</h4>
@@ -520,11 +520,11 @@
 
                     <div class="media service-box wow fadeInRight">
                         <div class="pull-left">
-                            <i class="fa fa-pie-chart"></i>
+                            <img class="box-border img-responsive" src="images/portfolio/icon_hebilla.png">
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading">Hebilla Erivan</h4>
-                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
+                            <h4 class="media-heading">Hebilla Eriband 1/2</h4>
+                            <p>Hebilla fabricada en Acero Inoxidable AISI 201, código B-C 254, para cintas de 3/4" ; acabado brillante estándar con una combinación de alta fuerza y el aspecto de calidad. Ofrece una buena resistencia a la oxidación y a muchos agentes corrosivos moderados.</p>
                         </div>
                     </div>
                 </div>

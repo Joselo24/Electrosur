@@ -690,3 +690,21 @@ p.loc {
   box-shadow: none;
   -webkit-box-shadow: none;
 }
+
+/* Borde del icono */
+.box-border {
+  padding: 10px;
+  box-shadow: inset 0 0 0 1px #d7d7d7;
+  -webkit-box-shadow: inset 0 0 0 1px #d7d7d7;
+  transition: background-color 400ms, background-color 400ms;
+  
+  display: block;
+  cursor: pointer;
+}
+
+img.box-border {
+  width: 55%;
+  height: 55%;
+
+}
+
