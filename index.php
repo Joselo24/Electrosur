@@ -263,7 +263,7 @@
                                   <h4 class="modal-title">Herraje</h4>
                                 </div>
                                 <div class="modal-body">
-                                  <embed src="herraje.html" class="pdf_estilo"></embed>
+                                  <embed src="productos/herraje.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
