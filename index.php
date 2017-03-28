@@ -149,7 +149,7 @@
 
                     <P>Dedicada al Diseño, Desarrollo, Producción, Distribución y Venta de productos Telefónicos para Redes de Cobre y Fibra Óptica. Los productos de Electro Sur Cia. Ltda., se desarrollan cumpliendo con los estándares de calidad exigibles; nuestro trabajo con la calidad nos ha proporcionado sostenibilidad y competitividad.</p>
 
-                    <button class="btn btn-primary" data-toggle="modal" data-target="#myModal">Leer más...</button>                            
+                    <button class="btn btn-primary" data-toggle="modal" data-target="#infoES">Leer más...</button>                            
                 </div>
                 <br>
                 <div class="col-sm-6 wow fadeInLeft">
@@ -159,7 +159,7 @@
         </div>
 
                  <!-- Modal -->
-          <div class="modal fade" id="myModal" role="dialog">
+          <div class="modal fade" id="infoES" role="dialog">
             <div class="modal-dialog modal-lg" style="width: 65%; height: auto;">
             
               <!-- Modal content-->
@@ -171,7 +171,7 @@
 
                     <!-- Reseña - Mision - Vision - Valores de la Empresa -->
                 <div class="container">                  
-                  <ul class="nav nav-tabs" style="width: 50%;">
+                  <ul class="nav nav-tabs" style="width: 80%;">
                     <li class="active"><a data-toggle="tab" href="#resena">Reseña</a></li>
                     <li><a data-toggle="tab" href="#mision">Misión</a></li>
                     <li><a data-toggle="tab" href="#vision">Visión</a></li>
@@ -216,28 +216,14 @@
                     <div id="valores" class="tab-pane fade">
                       <h3>Menu 3</h3>
                       <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                      <embed src="HEBILLA3-4.pdf" class="pdf_estilo">
                     </div>
                   </div>
-                </div>
-                <!-- <div class="modal-body">
-                  <form role="form">
-                    <div class="form-group">
-                      <label for="psw"><span class="glyphicon glyphicon-shopping-cart"></span> Tickets, $23 per person</label>
-                      <input type="number" class="form-control" id="psw" placeholder="How many?">
-                    </div>
-                    <div class="form-group">
-                      <label for="usrname"><span class="glyphicon glyphicon-user"></span> Send To</label>
-                      <input type="text" class="form-control" id="usrname" placeholder="Enter email">
-                    </div>
-                      <button type="submit" class="btn btn-block">Pay 
-                        <span class="glyphicon glyphicon-ok"></span>
-                      </button>
-                  </form>
-                </div> -->
+                </div><!-- /Reseña - Mision - Vision - Valores de la Empresa -->
+                
                 <div class="modal-footer">
-                  <a class="btn pull-left" data-dismiss="modal">Atras
-                  </a>
-                  
+                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px"></span></a>
+
                 </div> <!-- clas="modal-footer" -->
               </div>
             </div>
@@ -265,12 +251,26 @@
                 <div class="portfolio-item fibra">
                     <div class="portfolio-item-inner">
                         <img class="img-responsive" src="images/portfolio/10.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Abrazadera para poste - simple</h3>                            
-                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
-                                <img src="images/portfolio/expand.png" alt="">      
-                            </a>
-                           
+                        <div class="portfolio-info" data-toggle="modal" data-target="#herraje">
+                            <h3 class="preview" rel="prettyPhoto">Abrazadera para poste - simple</h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="herraje" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <h4 class="modal-title">Herraje</h4>
+                                </div>
+                                <div class="modal-body">
+                                  <embed src="herraje.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
                         </div>
                     </div>
                 </div><!--/.portfolio-item-->
@@ -345,6 +345,32 @@
                         <img class="img-responsive" src="images/portfolio/07.jpg" alt="">
                         <div class="portfolio-info">
                             <h3>Portfolio Item 7</h3>
+                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
+                                <img src="images/portfolio/expand.png" alt="">
+
+                            </a>
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item Business">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/08.jpg" alt="">
+                        <div class="portfolio-info">
+                            <h3>Portfolio Item 8</h3>
+                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
+                                <img src="images/portfolio/expand.png" alt="">
+
+                            </a>
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item Business">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/08.jpg" alt="">
+                        <div class="portfolio-info">
+                            <h3>Portfolio Item 8</h3>
                             <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
                                 <img src="images/portfolio/expand.png" alt="">
 
