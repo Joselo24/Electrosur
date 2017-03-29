@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -160,69 +160,18 @@
 
                  <!-- Modal -->
           <div class="modal fade" id="infoES" role="dialog">
-            <div class="modal-dialog modal-lg" style="width: 65%; height: auto;">
+            <div class="modal-dialog modal-lg">
             
               <!-- Modal content-->
               <div class="modal-content">
                 <div class="modal-header">
                   <button type="button" class="close" data-dismiss="modal">×</button>
-                  <a><img src="images/prueba1.png"></a>                  
+                  <a><img class="img-responsive" src="images/prueba1.png"></a>
                 </div>
-
-                    <!-- Reseña - Mision - Vision - Valores de la Empresa -->
-                <div class="container">                  
-                  <ul class="nav nav-tabs" style="width: 80%;">
-                    <li class="active"><a data-toggle="tab" href="#resena">Reseña</a></li>
-                    <li><a data-toggle="tab" href="#mision">Misión</a></li>
-                    <li><a data-toggle="tab" href="#vision">Visión</a></li>
-                    <li><a data-toggle="tab" href="#valores">Valores</a></li>
-                  </ul>
-
-                  <div class="tab-content">
-                    <div id="resena" class="tab-pane fade in active">          
-                            <div class="col-sm-5 fadeInRight">                                
-                                <p><br>Contamos con la experiencia de más de 20 años en el mercado y continúa el proceso de expansión, como una meta estratégica a mediano plazo. </p> 
-
-                                <P>Dedicada al Diseño, Desarrollo, Producción, Distribución y Venta de productos Telefónicos para Redes de Cobre y Fibra Óptica. Los productos de Electro Sur Cia. Ltda., se desarrollan cumpliendo con los estándares de calidad exigibles; nuestro trabajo con la calidad nos ha proporcionado sostenibilidad y competitividad.</p>
-                     
-                            </div>
-                            <div class="col-sm-5 fadeInRight"><br>
-                                <img class="img-responsive" src="images/feature-3.jpg" alt=""><br>
-                            </div>
-                    </div>
-
-                    <div id="mision" class="tab-pane fade">
-                        <div class="col-sm-5 fadeInRight">                                
-                            <p><br>Contamos con la experiencia de más de 20 años en el mercado y continúa el proceso de expansión, como una meta estratégica a mediano plazo. </p> 
-
-                            <P>Dedicada al Diseño, Desarrollo, Producción, Distribución y Venta de productos Telefónicos para Redes de Cobre y Fibra Óptica. Los productos de Electro Sur Cia. Ltda., se desarrollan cumpliendo con los estándares de calidad exigibles; nuestro trabajo con la calidad nos ha proporcionado sostenibilidad y competitividad.</p>
-                     
-                        </div>
-                        <div class="col-sm-5 fadeInRight"><br>
-                            <img class="img-responsive" src="images/feature-2.png" alt=""><br>
-                        </div>
-                    </div>
-                    <div id="vision" class="tab-pane fade">
-                        <div class="col-sm-5 fadeInRight">                                
-                            <p><br>Contamos con la experiencia de más de 20 años en el mercado y continúa el proceso de expansión, como una meta estratégica a mediano plazo. </p> 
-
-                            <P>Dedicada al Diseño, Desarrollo, Producción, Distribución y Venta de productos Telefónicos para Redes de Cobre y Fibra Óptica. Los productos de Electro Sur Cia. Ltda., se desarrollan cumpliendo con los estándares de calidad exigibles; nuestro trabajo con la calidad nos ha proporcionado sostenibilidad y competitividad.</p>
-                     
-                        </div>
-                        <div class="col-sm-5 fadeInRight"><br>
-                            <img class="img-responsive" src="images/feature-2.jpg" alt=""><br>
-                        </div>
-                    </div>
-                    <div id="valores" class="tab-pane fade">
-                      <h3>Menu 3</h3>
-                      <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-                      <embed src="HEBILLA3-4.pdf" class="pdf_estilo">
-                    </div>
-                  </div>
-                </div><!-- /Reseña - Mision - Vision - Valores de la Empresa -->
-                
+                    <!-- Reseña Mision Vision Valores -->
+                    <embed src="productos/infoElectroSur.html" class="pdf_estilo"></embed>               
                 <div class="modal-footer">
-                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px"></span></a>
+                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
 
                 </div> <!-- clas="modal-footer" -->
               </div>
@@ -252,7 +201,7 @@
                     <div class="portfolio-item-inner">
                         <img class="img-responsive" src="images/portfolio/10.jpg" alt="">
                         <div class="portfolio-info" data-toggle="modal" data-target="#herraje">
-                            <h3 class="preview" rel="prettyPhoto">Abrazadera para poste - simple</h3>
+                            <h3 class="preview" rel="prettyPhoto">Abrazadera para Poste - Simple</h3>
 
                             <!-- Modal -->
                           <div class="modal fade" id="herraje" role="dialog">
@@ -260,9 +209,11 @@
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <h4 class="modal-title">Herraje</h4>
+                                  <a><img class="img-responsive" src="images/prueba1.png"></a>   
+                                  <h4 class="modal-title">Abrazadera para Poste - Simple</h4>
                                 </div>
                                 <div class="modal-body">
+                                    <!-- Detalle del Producto -->
                                   <embed src="productos/herraje.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
