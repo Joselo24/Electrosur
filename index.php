@@ -70,44 +70,29 @@
 
     <section id="main-slider">
         <div class="owl-carousel">
-            <div class="item" style="background-image: url(images/slider/bg5.jpg);">
+            <div class="item" style="background-image: url(images/slider/bg1.png);">
                 <div class="slider-inner">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="carousel-content text-center">
-                                    <h2>Nuestro objetivo principal es la satisfacción contínua de nuestros <span>Clientes</span></h2>
-                                    <p>Somos proveedores de equipos, partes, respuestos y materiales de redes de comunicaciones, redes eléctricas, seguridad industrial.</p>
-                                    <!--<a class="btn btn-primary btn-lg" href="#">Read More</a>-->
+                                    <h2>Nuestro objetivo principal es la satisfacción contínua de nuestros <span>Clientes</span></h2> 
+                                    <p style="font-size: 20px;">Somos proveedores de equipos, partes, respuestos y materiales de redes de comunicaciones, redes eléctricas, seguridad industrial.</p>
+                                    <!--<a class="btn btn-primary btn-lg" href="#">Read More</a>-->                      
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div><!--/.item-->
-            <div class="item" style="background-image: url(images/slider/bg4.jpg);">
-                <div class="slider-inner">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="carousel-content text-center">
-                                    <h2>Experiencia en las áreas de energía <span>Eléctrica</span> y <span>Telecomunicciones</span></h2>
-                                    <p>Especializada en construcción, instalación, matenimmiento e Integración de Proyectos y Sistemas Electrónicos de Comunicación. </p>
-                                    <!--<a class="btn btn-primary btn-lg" href="#">Read More</a>-->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div><!--/.item-->
-            <div class="item" style="background-image: url(images/slider/bg6.jpg);">
+            <div class="item" style="background-image: url(images/slider/bg2.png);">
                 <div class="slider-inner">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="carousel-content text-center">
                                     <h2>Electro Sur Cia. Ltda., compañia legalmente<br> constituida y reconocida en el <span>Ecuador</span></h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et  dolore magna incididunt ut labore aliqua. </p>
+                                    
                                     <!--<a class="btn btn-primary btn-lg" href="#">Read More</a>-->
                                 </div>
                             </div>
@@ -115,14 +100,14 @@
                     </div>
                 </div>
             </div><!--/.item-->
-            <div class="item" style="background-image: url(images/slider/bg11.jpg);">
+            <div class="item" style="background-image: url(images/slider/bg3.png);">
                 <div class="slider-inner">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="carousel-content text-center">
-                                    <h2>Somos proveedores en materiales de redes de <span>comunicaciones</span>, <br>redes eléctricas, <span>seguridad industrial</span></h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et  dolore magna incididunt ut labore aliqua. </p>
+                                    <h2>Experiencia en las áreas de energía <span>Eléctrica</span> y <span>Telecomunicaciones</span></h2>
+                                     <p style="font-size: 20px;">Especializada en construcción, instalación, matenimmiento e Integración de Proyectos y Sistemas Electrónicos de Comunicación. </p>
                                     <!--<a class="btn btn-primary btn-lg" href="#">Read More</a>-->
                                 </div>
                             </div>
@@ -166,7 +151,7 @@
               <div class="modal-content">
                 <div class="modal-header">
                   <button type="button" class="close" data-dismiss="modal">×</button>
-                  <a><img class="img-responsive" src="images/prueba1.png"></a>
+                  <a><img class="img-responsive" src="images/logo1.jpg"></a>
                 </div>
                     <!-- Reseña Mision Vision Valores -->
                     <embed src="productos/infoElectroSur.html" class="pdf_estilo"></embed>               
@@ -199,9 +184,9 @@
             <div class="portfolio-items">
                 <div class="portfolio-item fibra">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/10.jpg" alt="">
+                        <img class="img-responsive" src="images/portfolio/miniposte_mpp1.jpg" alt="">
                         <div class="portfolio-info" data-toggle="modal" data-target="#herraje">
-                            <h3 class="preview" rel="prettyPhoto">Abrazadera para Poste - Simple</h3>
+                            <h3 class="preview" rel="prettyPhoto">Miniposte Polietileno </h3>
 
                             <!-- Modal -->
                           <div class="modal fade" id="herraje" role="dialog">
@@ -209,12 +194,12 @@
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <a><img class="img-responsive" src="images/prueba1.png"></a>   
-                                  <h4 class="modal-title">Abrazadera para Poste - Simple</h4>
+                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <h4 class="modal-title">Miniposte Polietileno </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="productos/herraje.html" class="pdf_estilo"></embed>
+                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -692,7 +677,7 @@
                                         <i class="fa fa-phone social-icons"></i>
                                     </div>
                                     <div class="media-body">                                      
-                                        <p><abbr title="Celular">C:</abbr> (593-9) 93620590 <br><abbr title="Teléfono">T:</abbr> (593-4) 2924 962 – 2924 941 - Ext. 101 <br>  <abbr title="Fax">F:</abbr> 2926 023  </p>
+                                        <p><abbr title="Celular">C:</abbr> (593-9) 93620590 <br><abbr title="Teléfono">T:</abbr> (593-4) 2924 962 – (593-4) 2924 941 – Ext. 101 <br> &emsp;(593-4) 2924 864 – (593-4) 2925 023 – Ext. 101 <br>  <abbr title="Fax">F:</abbr> 2926 023  </p>
                                     </div>
                                 </div>
                                 <div class="media service-box wow fadeInRight">
@@ -700,7 +685,7 @@
                                         <i class="fa fa-map-marker social-icons"></i>
                                     </div>
                                     <div class="media-body">                                      
-                                        <p>Cdla. Simón Bolívar Mz. 1 Solar 10, <br>Calle Leopoldo Benítez y Av. 2N-E</p>
+                                        <p>Cdla. Simón Bolívar Mz. 1, <br>Calle Leopoldo Benítez, Solar 10 y Av. 2N-E</p>
                                     </div>
                                 </div>
                                 <div class="media service-box wow fadeInRight">
