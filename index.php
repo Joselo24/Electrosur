@@ -57,7 +57,7 @@
                             <li class="scroll"><a href="#home" data-section="#home">Inicio</a></li>
                             <li class="scroll"><a href="#about" data-section="#about">Nosostros</a></li>
                             <li class="scroll"><a href="#portfolio" data-section="#portfolio">Productos</a></li>
-                            <li class="scroll"><a href="#services" data-section="#services">Servicios</a></li>
+                            <!--<li class="scroll"><a href="#services" data-section="#services">Servicios</a></li>-->
                             <li class="scroll"><a href="#features" data-section="#features">Destacados</a></li>
                             <li class="scroll"><a href="#contact-area" data-section="#contact-area">Contáctenos</a></li>   
                         </ul>
@@ -169,7 +169,7 @@
         <div class="container">
             <div class="section-header">
                 <h2 class="section-title text-center wow fadeInDown">Nuestros Productos</h2>
-                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+                <p class="text-center wow fadeInDown">Te ofrecemos una gama de productos, entre ellos Fibra Óptica, Cobre y Seguridad Industrial. <br> Contamos con una amplia variedad de productos de telecomunicaciones y eléctricidad. </p>
             </div>
 
             <div class="text-center">
@@ -183,6 +183,36 @@
 
             <div class="portfolio-items">
                 <div class="portfolio-item fibra">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/miniposte_mpp1.jpg" alt="">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#miniposte">
+                            <h3 class="preview" rel="prettyPhoto">Miniposte Polietileno </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="miniposte" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <h4 class="modal-title">Miniposte Polietileno </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+
+
+                <div class="portfolio-item Business art">
                     <div class="portfolio-item-inner">
                         <img class="img-responsive" src="images/portfolio/miniposte_mpp1.jpg" alt="">
                         <div class="portfolio-info" data-toggle="modal" data-target="#herraje">
@@ -211,128 +241,186 @@
                     </div>
                 </div><!--/.portfolio-item-->
 
-
-                <div class="portfolio-item Business art">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/02.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 2</h3>
-                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
-                                <img src="images/portfolio/expand.png" alt="">
-                            </a>
-                        </div>
-                    </div>
-                </div><!--/.portfolio-item-->
-
                 <div class="portfolio-item animation">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/03.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 3</h3>
-                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
-                                <img src="images/portfolio/expand.png" alt="">
+                        <img class="img-responsive" src="images/portfolio/miniposte_mpp1.jpg" alt="">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#herraje1">
+                            <h3 class="preview" rel="prettyPhoto">Miniposte Polietileno </h3>
 
-                            </a>
+                            <!-- Modal -->
+                          <div class="modal fade" id="herraje1" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <h4 class="modal-title">Miniposte Polietileno </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
                         </div>
                     </div>
                 </div><!--/.portfolio-item-->
 
                 <div class="portfolio-item Business">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/04.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 4</h3>
-                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
-                                <img src="images/portfolio/expand.png" alt="">
+                        <img class="img-responsive" src="images/portfolio/miniposte_mpp1.jpg" alt="">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#herraje2">
+                            <h3 class="preview" rel="prettyPhoto">Miniposte Polietileno </h3>
 
-                            </a>
+                            <!-- Modal -->
+                          <div class="modal fade" id="herraje2" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <h4 class="modal-title">Miniposte Polietileno </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
                         </div>
                     </div>
                 </div><!--/.portfolio-item-->
 
                 <div class="portfolio-item animation art">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/05.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 5</h3>
-                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
-                                <img src="images/portfolio/expand.png" alt="">
+                        <img class="img-responsive" src="images/portfolio/miniposte_mpp1.jpg" alt="">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#herraje3">
+                            <h3 class="preview" rel="prettyPhoto">Miniposte Polietileno </h3>
 
-                            </a>
+                            <!-- Modal -->
+                          <div class="modal fade" id="herraje3" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <h4 class="modal-title">Miniposte Polietileno </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
                         </div>
                     </div>
                 </div><!--/.portfolio-item-->
 
                 <div class="portfolio-item Business">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/06.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 5</h3>
-                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
-                                <img src="images/portfolio/expand.png" alt="">
+                        <img class="img-responsive" src="images/portfolio/miniposte_mpp1.jpg" alt="">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#herraje4">
+                            <h3 class="preview" rel="prettyPhoto">Miniposte Polietileno </h3>
 
-                            </a>
+                            <!-- Modal -->
+                          <div class="modal fade" id="herraje4" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <h4 class="modal-title">Miniposte Polietileno </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
                         </div>
                     </div>
                 </div><!--/.portfolio-item-->
 
                 <div class="portfolio-item animation art">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/07.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 7</h3>
-                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
-                                <img src="images/portfolio/expand.png" alt="">
+                        <img class="img-responsive" src="images/portfolio/miniposte_mpp1.jpg" alt="">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#herraje5">
+                            <h3 class="preview" rel="prettyPhoto">Miniposte Polietileno </h3>
 
-                            </a>
+                            <!-- Modal -->
+                          <div class="modal fade" id="herraje5" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <h4 class="modal-title">Miniposte Polietileno </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
                         </div>
                     </div>
                 </div><!--/.portfolio-item-->
 
                 <div class="portfolio-item Business">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/08.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 8</h3>
-                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
-                                <img src="images/portfolio/expand.png" alt="">
+                        <img class="img-responsive" src="images/portfolio/miniposte_mpp1.jpg" alt="">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#herraje6">
+                            <h3 class="preview" rel="prettyPhoto">Miniposte Polietileno </h3>
 
-                            </a>
+                            <!-- Modal -->
+                          <div class="modal fade" id="herraje6" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <h4 class="modal-title">Miniposte Polietileno </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
                         </div>
                     </div>
                 </div><!--/.portfolio-item-->
-
-                <div class="portfolio-item Business">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/08.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 8</h3>
-                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
-                                <img src="images/portfolio/expand.png" alt="">
-
-                            </a>
-                        </div>
-                    </div>
-                </div><!--/.portfolio-item-->
-
-                <div class="portfolio-item Business">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/08.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 8</h3>
-                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
-                                <img src="images/portfolio/expand.png" alt="">
-
-                            </a>
-                        </div>
-                    </div>
-                </div><!--/.portfolio-item-->
+                
             </div>
         </div><!--/.container-->
     </section><!--/#portfolio-->
 
 
-    <section id="services" >
+    <!--<section id="services" >
         <div class="container">
 
             <div class="section-header">
@@ -424,8 +512,8 @@
 
                 </div>
             </div><!--/.row-->    
-        </div><!--/.container-->
-    </section><!--/#services-->
+        <!--</div><!--/.container-->
+    <!--</section><!--/#services-->
 
      <section id="cta2">
         <div class="container">
