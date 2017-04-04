@@ -57,7 +57,7 @@
                             <li class="scroll"><a href="#home" data-section="#home">Inicio</a></li>
                             <li class="scroll"><a href="#about" data-section="#about">Nosostros</a></li>
                             <li class="scroll"><a href="#portfolio" data-section="#portfolio">Productos</a></li>
-                            <!--<li class="scroll"><a href="#services" data-section="#services">Servicios</a></li>-->
+                            <li class="scroll"><a href="#services" data-section="#services">Servicios</a></li>
                             <li class="scroll"><a href="#features" data-section="#features">Destacados</a></li>
                             <li class="scroll"><a href="#contact-area" data-section="#contact-area">Contáctenos</a></li>   
                         </ul>
@@ -173,11 +173,79 @@
             </div>
 
             <div class="text-center">
-                <ul class="portfolio-filter">
-                    <li><a class="active" href="#" data-filter="*">Todos</a></li>
+                <ul class="portfolio-filter navsub">
+
+                      <li tabindex='1'><a class="active" href="#" data-filter="*"> Todos</a></li>
+                      <li tabindex='2'><a href="#" data-filter=".fibra"> Fibra Óptica</a>
+                        <div>
+                          <ul>
+                            <li><a href=''>Ahigal de Villarino</a></li>
+                            <li><a href=''>Almendra</a></li>
+                            <li><a href=''>Barceo</a></li>
+                            <li><a href=''>Barruecopardo</a></li>
+                            <li><a href=''>Brincones</a></li>
+                            <li><a href=''>Cabeza del Caballo</a></li>
+                            <li><a href=''>Cerezal de Peñahorcada</a></li>
+                                Catagua
+                            <a href=''>El Manzano</a>
+                            <li><a href=''>El Milano</a></li>
+                            <li><a href=''>Encinasola de los Comendadores</a></li>
+                            <li><a href=''>Guadramiro</a></li>
+                            <li><a href=''>Iruelos</a></li>
+                            <li><a href=''>La Peña, La Vídola</a></li>
+                            <li><a href=''>La Zarza de Pumareda</a></li>
+                            <li><a href=''>Puertas</a></li>
+                            <li><a href=''>Saldeana</a></li>
+                            <li><a href=''>Sanchón de la Ribera</a></li>
+                            <li><a href=''>Trabanca</a></li>
+                            <li><a href=''>Valderrodrigo</a></li>
+                            <li><a href=''>Valsalabroso</a></li>
+                            <li><a href=''>Villar de Samaniego</a></li>
+                            <li><a href=''>Villasbuenas</a></li>
+                            <li><a href=''>Cabeza de Framontanos*</a></li> 
+                            <li><a href=''>La Zarza de Don Beltrán*</a></li>
+                            <li><a href=''>Ahigal de los Aceiteros</a></li>
+                            <li><a href=''>Bañobárez</a></li>
+                                Jose
+                            <a href=''>Bermellar</a>
+                            <li><a href=''>Bogajo</a></li>
+                            <li><a href=''>Cerralbo</a></li>
+                            <li><a href=''>Fuenteliante</a></li>
+                            <li><a href=''>La Fregeneda</a></li>
+                            <li><a href=''>Hinojosa de Duero</a></li>
+                            <li><a href=''>Lumbrales</a></li>
+                            <li><a href=''>Olmedo de Camaces</a></li>
+                            <li><a href=''>La Redonda</a></li>
+                            <li><a href=''>San Felices de los Gallegos</a></li>
+                            <li><a href=''>Sobradillo</a></li>
+                            <li><a href=''>Villavieja</a></li><li>
+                            Abusejo
+                            <li><a href=''>Alba de Yeltes</a></li>
+                            <li><a href=''>Aldehuela de Yeltes</a></li>
+                            <li><a href=''>Boada</a></li>
+                            <li><a href=''>Cabrillas</a></li>
+                            <li><a href=''>Castraz</a></li>
+                            <li><a href=''>Dios le Guarde</a></li>
+                            <li><a href=''>La Fuente de San Esteban</a></li>
+                            <li><a href=''>Martín de Yeltes</a></li>
+                            <li><a href=''>Morasverdes</a></li>
+                            <li><a href=''>Puebla de Yeltes</a></li>
+                            <li><a href=''>Retortillo</a></li>
+                            <li><a href=''>Sancti-Spíritus</a></li>
+                            <li><a href=''>Sepulcro-Hilario</a></li>
+                            <li><a href=''>Tenebrón</a></li>
+                          </ul>
+                        </div>
+                      </li>
+
+                      <li tabindex='3'><a href="#" data-filter=".cobre"> Cobre</a></li>
+                      <li tabindex='4'><a href="#" data-filter=".seguridad"> Seguridad Industrial</a></li> <!--  Hasta aqui el menu -->
+                    
+
+                    <!--<li><a class="active" href="#" data-filter="*">Todos</a></li>
                     <li><a href="#" data-filter=".fibra">Fibra Optica</a></li>
                     <li><a href="#" data-filter=".cobre">Cobre</a></li>
-                    <li><a href="#" data-filter=".seguridad">Seguridad Industrial</a></li>
+                    <li><a href="#" data-filter=".seguridad">Seguridad Industrial</a></li> -->
                 </ul><!--/#portfolio-filter-->
             </div>
 
@@ -229,7 +297,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="productos/miniposte1.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -420,7 +488,7 @@
     </section><!--/#portfolio-->
 
 
-    <!--<section id="services" >
+    <section id="services" >
         <div class="container">
 
             <div class="section-header">
@@ -512,8 +580,8 @@
 
                 </div>
             </div><!--/.row-->    
-        <!--</div><!--/.container-->
-    <!--</section><!--/#services-->
+        </div><!--/.container-->
+    </section><!--/#services-->
 
      <section id="cta2">
         <div class="container">

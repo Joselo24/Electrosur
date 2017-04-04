@@ -1,10 +1,4 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,300,100,700,100italic,300italic,400italic,700italic);
-/*
-Template Name: Color
-Version: 1.0
-Author: 
-Author URL: 
-*/
 /*************************
 *******Typography******
 **************************/
@@ -715,4 +709,100 @@ img.box-border {
 .pdf_estilo{
   width: 95%;
   height: 400px;
+}
+
+/***********************************
+        SUB - MENU DE PRODUCTOS COBRE-FIBRA-SEG. INDUSTRIAL
+************************************/ 
+* {margin:0;padding:0;border:0 none; position: relative;}
+html {
+  background: #f2f2f2;
+  box-sizing: border-box;
+  overflow-y: scroll;
+  min-height: 100vh;
+}
+.navsub {
+  display: flex; /* width:100%;  Ancho del Sub-Menu */
+  width:100%;
+  color: #fff;
+  list-style: none;
+  z-index: 4;
+}
+.navsub > li {
+  flex-grow: 2;
+  position: static;
+  padding: 1.5rem 0;
+  text-align: center;
+  cursor: pointer;
+}
+.navsub > li:hover,
+.navsub > li:focus {
+  color: #fff;
+}
+
+li > div {
+  will-change: animation, position, filter;
+  background: #fff;
+  position: absolute;
+  left:0;
+  width: 100%; /*  width: 100%;   Ancho del background - Menu desplegable */
+  text-align: left;
+  line-height: 1.7;
+  padding: 1rem;
+  cursor: auto;
+  color: #445;
+  overflow: auto;
+  box-shadow: 0 0 4px rgba(0,0,0,.4);
+  border-bottom: 1rem solid #fff;
+  pointer-events: none;
+  animation: repliega .7s ease-out forwards;
+}
+
+li:hover > div,
+li:focus > div {
+  pointer-events: auto;
+  animation: 1s despliega forwards;
+}
+.navsub ul {
+  margin: 1rem;
+  /*column-width: 300px;  --Esto es para ampliar columnas entre listas-- */
+  column-width: 300px;
+}
+
+@keyframes repliega {
+  0% {
+    top: 100%;
+    max-height: 60vh;
+    display: block;
+  }
+  40% {
+    filter: url(#svg-blur);}
+  99.9% {
+    display: none;
+    left:0;
+    top: 2000%;
+    height: 60vh;
+  }
+  100% {
+    top: 0;
+    left: -100vw;
+    display: none;
+    max-height: 0vh;
+    filter: url(#svg-blur);
+  }
+}
+@keyframes despliega {
+  0% {
+    display: none;
+    opacity: 0;
+    top: 100%;
+    max-height: 0;
+  }
+  .1% {
+    dsplay: block; 
+  }
+  100% {
+    top: 100%;
+    max-height: 60vh;
+  }
 }
