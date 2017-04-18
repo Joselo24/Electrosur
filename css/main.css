@@ -760,7 +760,16 @@ img.box-border {
   font-weight: bold;
 }
 
-/* desplegabe menu hover */
+/*************** Slide Productos Destacados ***************/
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width: 100%;
+  margin: auto;
+}
+
+
+/* desplegabe menu hover 
+
 .nav {
   display: flex;
   z-index: 3;
@@ -816,5 +825,5 @@ img.box-border {
     top: 100%;
     max-height: 60vh;
   }
-}
+}   */
 

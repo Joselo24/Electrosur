@@ -57,7 +57,7 @@
                             <li class="scroll"><a href="#home" data-section="#home">Inicio</a></li>
                             <li class="scroll"><a href="#about" data-section="#about">Nosostros</a></li>
                             <li class="scroll"><a href="#portfolio" data-section="#portfolio">Productos</a></li>
-                            <li class="scroll"><a href="#services" data-section="#services">Servicios</a></li>
+                            <li class="scroll"><a href="#services" data-section="#services">Proveedores</a></li>
                             <li class="scroll"><a href="#features" data-section="#features">Destacados</a></li>
                             <li class="scroll"><a href="#contact-area" data-section="#contact-area">Contáctenos</a></li>   
                         </ul>
@@ -172,12 +172,12 @@
                 <p class="text-center wow fadeInDown">Te ofrecemos una gama de productos, entre ellos Fibra Óptica, Cobre y Seguridad Industrial. <br> Contamos con una amplia variedad de productos de telecomunicaciones y eléctricidad. </p>
             </div>
 
-            <div class="text-center">
+            <div class="text-center" id="accordion">
                 <ul class="portfolio-filter nav">
 
                       <!--  Aqui empieza el menu de productos -->
                       <li tabindex='1'><a class="active" href="#" data-filter="*"> Todos</a></li>
-                      <li tabindex='2'><a href="#subfibra" data-toggle="collapse" data-filter=".fibra"> Fibra Óptica</a>
+                      <li tabindex='2'><a href="#subfibra" data-toggle="collapse" data-parent="#accordion" data-filter=".fibra"> Fibra Óptica</a>
                       
                         <div id="subfibra" class="collapse three-columns izq-items">
                           <ul>
@@ -215,7 +215,7 @@
                         </div>
                       </li>
 
-                      <li tabindex='3'><a href="#subcobre" data-toggle="collapse" data-filter=".cobre"> Cobre</a>
+                      <li tabindex='3'><a href="#subcobre" data-toggle="collapse" data-parent="#accordion" data-filter=".cobre"> Cobre</a>
                         <div id="subcobre" class="collapse three-columns izq-items">
                           <ul>
                             <p>Catagua</p>
@@ -504,8 +504,8 @@
         <div class="container">
 
             <div class="section-header">
-                <h2 class="section-title text-center wow fadeInDown">Nuestros Servicios</h2>
-                <p class="text-center wow fadeInDown">Ofrecemos servicios técnicos , venta de productos <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+                <h2 class="section-title text-center wow fadeInDown">Nuestros Principales Proveedores</h2>
+                <p class="text-center wow fadeInDown">Contamos con los grupos empresariales más selectos en el país, <br> por eso te ofrecemos la mejor línea de distribución, para productos de electricidad y telecomunicaciones.</p>
             </div>
 
             <div class="row">
@@ -611,11 +611,73 @@
         <div class="container">
             <div class="section-header">
                 <h2 class="section-title text-center wow fadeInDown">Productos Destacados</h2>
-                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+                <p class="text-center wow fadeInDown">Tenemos a tu disposición toda una gama de productos que seguro te serán de mucha ayuda, <br> dale un vistazo a nuestra principal línea de productos. </p>
             </div>
             <div class="row">
                 <div class="col-sm-6 wow fadeInLeft">
-                    <img class="img-responsive" src="images/main-feature.png" alt="">
+
+                <!-- Slide Productos Destacados -->
+                <br>
+                  <div id="myCarousel" class="carousel slide" data-ride="carousel" style="background-color: transparent;">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                      <li data-target="#myCarousel" data-slide-to="1"></li>
+                      <li data-target="#myCarousel" data-slide-to="2"></li>
+                      <li data-target="#myCarousel" data-slide-to="3"></li>
+                    </ol>
+
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+
+                      <div class="item active">
+                        <img src="images/main-feature.png" alt="Girasol">
+                        <div class="carousel-caption">
+                          <h3 style="color: white;">Girassol</h3>
+                          <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+                        </div>
+                      </div>
+
+                      <div class="item">
+                        <img src="images/main-feature.png" alt="Chania">
+                        <div class="carousel-caption">
+                          <h3>Chania</h3>
+                          <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+                        </div>
+                      </div>
+                    
+                      <div class="item">
+                        <img src="images/main-feature.png" alt="Rosa" >
+                        <div class="carousel-caption">
+                          <h3>Rosa</h3>
+                          <p>Beatiful flowers in Kolymbari, Crete.</p>
+                        </div>
+                      </div>
+
+                      <div class="item">
+                        <img src="images/main-feature.png" alt="Flower">
+                        <div class="carousel-caption">
+                          <h3>Flowers</h3>
+                          <p>Beatiful flowers in Kolymbari, Crete.</p>
+                        </div>
+                      </div>
+                  
+                    </div>
+
+                    <!-- Left and right controls -->
+                    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                      <span class="fa fa-chevron-left" aria-hidden="true" style="padding-top: 250%; padding-right: 50%; padding-bottom: 250%; "></span>
+                      <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                      <span class="fa fa-chevron-right" aria-hidden="true" style="padding-top: 250%; padding-left: 50%; padding-bottom: 250%; "></span>
+                      <span class="sr-only">Next</span>
+                    </a>
+                  </div>
+                
+
+                   <!-- Aqui termina los Slides <img class="img-responsive" src="images/main-feature.png" alt=""> -->
+
                 </div>
                 <div class="col-sm-6">
                     <div class="media service-box wow fadeInRight">
