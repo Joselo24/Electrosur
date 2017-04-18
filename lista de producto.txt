@@ -81,5 +81,14 @@ Guantes de soldador de cuero
 Gafa de seguridad nemesis
 gafa de seguridad transparente nemesis
 
+/*******************/
+
+Módulos de conexión y desconexión para el montaje en marcos de montaje posterior. Están disponibles los siguientes tipos de módulos:
+
+- Módulos de conexión de 10 pares (color: gris) para revistas de protección contra sobretensiones.
+- Módulos de desconexión de 10 pares (color: blanco) para sobretensión y protección fina.
+- Módulos de puesta a tierra (color: rojo) para 38 hilos.
+- Módulos de puesta a tierra (color: rojo) para 38 hilos.
+
 
 

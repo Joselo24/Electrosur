@@ -173,11 +173,13 @@
             </div>
 
             <div class="text-center">
-                <ul class="portfolio-filter navsub">
+                <ul class="portfolio-filter nav">
 
+                      <!--  Aqui empieza el menu de productos -->
                       <li tabindex='1'><a class="active" href="#" data-filter="*"> Todos</a></li>
-                      <li tabindex='2'><a href="#" data-filter=".fibra"> Fibra Óptica</a>
-                        <div>
+                      <li tabindex='2'><a href="#subfibra" data-toggle="collapse" data-filter=".fibra"> Fibra Óptica</a>
+                      
+                        <div id="subfibra" class="collapse three-columns izq-items">
                           <ul>
                             <li><a href=''>Ahigal de Villarino</a></li>
                             <li><a href=''>Almendra</a></li>
@@ -186,8 +188,7 @@
                             <li><a href=''>Brincones</a></li>
                             <li><a href=''>Cabeza del Caballo</a></li>
                             <li><a href=''>Cerezal de Peñahorcada</a></li>
-                                Catagua
-                            <a href=''>El Manzano</a>
+                                <p>Catagua</p>
                             <li><a href=''>El Milano</a></li>
                             <li><a href=''>Encinasola de los Comendadores</a></li>
                             <li><a href=''>Guadramiro</a></li>
@@ -195,51 +196,62 @@
                             <li><a href=''>La Peña, La Vídola</a></li>
                             <li><a href=''>La Zarza de Pumareda</a></li>
                             <li><a href=''>Puertas</a></li>
-                            <li><a href=''>Saldeana</a></li>
-                            <li><a href=''>Sanchón de la Ribera</a></li>
-                            <li><a href=''>Trabanca</a></li>
-                            <li><a href=''>Valderrodrigo</a></li>
-                            <li><a href=''>Valsalabroso</a></li>
-                            <li><a href=''>Villar de Samaniego</a></li>
-                            <li><a href=''>Villasbuenas</a></li>
-                            <li><a href=''>Cabeza de Framontanos*</a></li> 
-                            <li><a href=''>La Zarza de Don Beltrán*</a></li>
-                            <li><a href=''>Ahigal de los Aceiteros</a></li>
-                            <li><a href=''>Bañobárez</a></li>
-                                Jose
-                            <a href=''>Bermellar</a>
+                           
+                                <p>Jose</p>
                             <li><a href=''>Bogajo</a></li>
                             <li><a href=''>Cerralbo</a></li>
                             <li><a href=''>Fuenteliante</a></li>
                             <li><a href=''>La Fregeneda</a></li>
                             <li><a href=''>Hinojosa de Duero</a></li>
-                            <li><a href=''>Lumbrales</a></li>
-                            <li><a href=''>Olmedo de Camaces</a></li>
-                            <li><a href=''>La Redonda</a></li>
-                            <li><a href=''>San Felices de los Gallegos</a></li>
-                            <li><a href=''>Sobradillo</a></li>
-                            <li><a href=''>Villavieja</a></li><li>
-                            Abusejo
+                           
+                            <p>Abusejo</p>
                             <li><a href=''>Alba de Yeltes</a></li>
                             <li><a href=''>Aldehuela de Yeltes</a></li>
                             <li><a href=''>Boada</a></li>
                             <li><a href=''>Cabrillas</a></li>
                             <li><a href=''>Castraz</a></li>
-                            <li><a href=''>Dios le Guarde</a></li>
-                            <li><a href=''>La Fuente de San Esteban</a></li>
-                            <li><a href=''>Martín de Yeltes</a></li>
-                            <li><a href=''>Morasverdes</a></li>
-                            <li><a href=''>Puebla de Yeltes</a></li>
-                            <li><a href=''>Retortillo</a></li>
-                            <li><a href=''>Sancti-Spíritus</a></li>
-                            <li><a href=''>Sepulcro-Hilario</a></li>
-                            <li><a href=''>Tenebrón</a></li>
+                           
                           </ul>
                         </div>
                       </li>
 
-                      <li tabindex='3'><a href="#" data-filter=".cobre"> Cobre</a></li>
-                      <li tabindex='4'><a href="#" data-filter=".seguridad"> Seguridad Industrial</a></li> <!--  Hasta aqui el menu -->
+                      <li tabindex='3'><a href="#subcobre" data-toggle="collapse" data-filter=".cobre"> Cobre</a>
+                        <div id="subcobre" class="collapse three-columns izq-items">
+                          <ul>
+                            <p>Catagua</p>
+                            <li><a data-toggle="modal" data-target="#miniposte" >Miniposte Polietileno</a></li>
+                            <li><a href=''>Almendra</a></li>
+                            <li><a href=''>Barceo</a></li>
+                            <li><a href=''>Barruecopardo</a></li>
+                            <li><a href=''>Brincones</a></li>
+                            <li><a href=''>Cabeza del Caballo</a></li>
+                            <li><a href=''>Cerezal de Peñahorcada</a></li>
+                                
+                            <li><a href=''>El Milano</a></li>
+                            <li><a href=''>Encinasola de los Comendadores</a></li>
+                            <li><a href=''>Guadramiro</a></li>
+                            <li><a href=''>Iruelos</a></li>
+                            <li><a href=''>La Peña, La Vídola</a></li>
+                            <li><a href=''>La Zarza de Pumareda</a></li>
+                            <li><a href=''>Puertas</a></li>
+                           
+                                <p>Jose</p>
+                            <li><a href=''>Bogajo</a></li>
+                            <li><a href=''>Cerralbo</a></li>
+                            <li><a href=''>Fuenteliante</a></li>
+                            <li><a href=''>La Fregeneda</a></li>
+                            <li><a href=''>Hinojosa de Duero</a></li>
+                           
+                            
+                            <li><a href=''>Alba de Yeltes</a></li>
+                            <li><a href=''>Aldehuela de Yeltes</a></li>
+                            <li><a href=''>Boada</a></li>
+                            <li><a href=''>Cabrillas</a></li>
+                            <li><a href=''>Castraz</a></li>
+                           
+                          </ul>
+                        </div>
+                      </li> <!--  Hasta aqui el menu de productos -->
                     
 
                     <!--<li><a class="active" href="#" data-filter="*">Todos</a></li>
