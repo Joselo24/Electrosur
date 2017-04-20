@@ -57,9 +57,9 @@
                             <li class="scroll"><a href="#home" data-section="#home">Inicio</a></li>
                             <li class="scroll"><a href="#about" data-section="#about">Nosostros</a></li>
                             <li class="scroll"><a href="#portfolio" data-section="#portfolio">Productos</a></li>
-                            <li class="scroll"><a href="#services" data-section="#services">Proveedores</a></li>
-                            <li class="scroll"><a href="#features" data-section="#features">Destacados</a></li>
-                            <li class="scroll"><a href="#contact-area" data-section="#contact-area">Contáctenos</a></li>   
+                            <li class="scroll"><a href="#services" data-section="#services">Destacados</a></li>
+                            <li class="scroll"><a href="#features" data-section="#features">Proveedores</a></li>
+                            <li class="scroll"><a href="#contact-area" data-section="#contact-area">Contáctenos</a></li>
                         </ul>
                     </div>
                 </nav>
@@ -499,15 +499,153 @@
         </div><!--/.container-->
     </section><!--/#portfolio-->
 
+    <section id="cta2">
+        <div class="container">
+            <div class="text-center">
+                <h2 class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">TOMASTE UNA DECISIÓN, <span>BIENVENIDO</span></h2>
+                <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms">Nuestro personal en ventas atenderá todos tus requerimientos. <br/>Te damos asesoria en todos nuestros productos.</p>
+                <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms"><a class="btn btn-primary btn-lg" href="#contact-area">Contáctenos</a></p>
+            </div>
+        </div>
+    </section>
 
     <section id="services" >
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title text-center wow fadeInDown">Productos Destacados</h2>
+                <p class="text-center wow fadeInDown">Tenemos a tu disposición toda una gama de productos que seguro te serán de mucha ayuda, <br> dale un vistazo a nuestra principal línea de productos. </p>
+            </div>
+            <div class="row">
+                <div class="col-sm-6 wow fadeInLeft">
+                <!-- Slide Productos Destacados -->
+                    <div id="carousel-testimonial" class="carousel slide text-center" data-ride="carousel">
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner" role="listbox">
+                            <div class="item active">
+                                <p><img class="img-responsive" src="images/main-feature.png" alt=""></p>
+                                <h4>Jose Catagua</h5>
+                                <small>Soy conocedor y defensor de los estándares, de la accesibilidad, de la usabilidad, de velar por la experiencia del usuario.</small>
+                            </div>
+                            <div class="item">
+                                <p><img class="img-responsive" src="images/main-feature.png" alt=""></p>
+                                <h4>Louise S. Morgan</h4>
+                                <small>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam</small>
+                            </div>
+                        </div>
+
+                        <!-- Controls -->
+                        <div class="btns">
+                            <a class="btn btn-primary btn-sm" href="#carousel-testimonial" role="button" data-slide="prev">
+                                <span class="fa fa-angle-left" aria-hidden="true"></span>
+                                <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="btn btn-primary btn-sm" href="#carousel-testimonial" role="button" data-slide="next">
+                                <span class="fa fa-angle-right" aria-hidden="true"></span>
+                                <span class="sr-only">Next</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>  <!-- Aqui termina Slide Productos Destacados -->              
+
+                <div class="col-sm-6 wow fadeInLeft">
+                    <div class="media service-box wow fadeInRight">
+                        <div class="pull-left">
+                            <img class="box-border img-responsive" src="images/portfolio/icon_herraje.png">
+                        </div>
+                        <div class="media-body">
+                            <h5 class="media-heading">Herrajerias</h5>
+                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
+                        </div>
+                    </div>
+
+                    <div class="media service-box wow fadeInRight">
+                        <div class="pull-left">
+                            <img class="box-border img-responsive" src="images/portfolio/icon_manga.png">
+                        </div>
+                        <div class="media-body">
+                            <h5 class="media-heading">Mangas</h5>
+                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
+                        </div>
+                    </div>
+
+                    <div class="media service-box wow fadeInRight">
+                        <div class="pull-left">
+                            <img class="box-border img-responsive" src="images/portfolio/icon_cajapresion.png">
+                        </div>
+                        <div class="media-body">
+                            <h5 class="media-heading">Caja de Presión</h5>
+                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
+                        </div>
+                    </div>
+
+                    <div class="media service-box wow fadeInRight">
+                        <div class="pull-left">
+                            <img class="box-border img-responsive" src="images/portfolio/icon_hebilla.png">
+                        </div>
+                        <div class="media-body">
+                            <h5 class="media-heading">Hebilla Eriband 1/2</h5>
+                            <p>Hebilla fabricada en Acero Inoxidable AISI 201, código B-C 254, para cintas de 3/4" ; acabado brillante estándar con una combinación de alta fuerza y el aspecto de calidad. Ofrece una buena resistencia a la oxidación y a muchos agentes corrosivos moderados.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section><!--/#services Fin Productos Destacados -->
+
+    <section id="features">
         <div class="container">
 
             <div class="section-header">
                 <h2 class="section-title text-center wow fadeInDown">Nuestros Principales Proveedores</h2>
                 <p class="text-center wow fadeInDown">Contamos con los grupos empresariales más selectos en el país, <br> por eso te ofrecemos la mejor línea de distribución, para productos de electricidad y telecomunicaciones.</p>
             </div>
+            
+<!-- Proveedores Principales -->
+<div class="container">
+    <div class="col-md-12">
+        <div class="carousel slide" id="myCarousel">
+          <div class="carousel-inner">
+                <div class="item active">
+                  <div class="col-lg-4 col-xs-4 col-md-4 col-sm-4">
+                  <a href="#"><img src="http://lorempixel.com/400/200/sports" class="img-responsive">1</a></div>
+                </div>
+                <div class="item">
+                  <div class="col-lg-4 col-xs-4 col-md-4 col-sm-4">
+                  <a href="#"><img src="http://lorempixel.com/400/200/" class="img-responsive">2</a></div>
+                </div>
+                <div class="item">
+                  <div class="col-lg-4 col-xs-4 col-md-4 col-sm-4">
+                  <a href="#"><img src="http://lorempixel.com/400/200/sports" class="img-responsive">3</a></div>
+                </div>
+                <div class="item">
+                  <div class="col-lg-4 col-xs-4 col-md-4 col-sm-4">
+                  <a href="#"><img src="http://lorempixel.com/400/200/" class="img-responsive">4</a></div>
+                </div>
+                <div class="item">
+                  <div class="col-lg-4 col-xs-4 col-md-4 col-sm-4">
+                  <a href="#"><img src="http://lorempixel.com/400/200/sports" class="img-responsive">5</a></div>
+                </div>
+                <div class="item">
+                  <div class="col-lg-4 col-xs-4 col-md-4 col-sm-4">
+                  <a href="#"><img src="http://lorempixel.com/400/200/" class="img-responsive">6</a></div>
+                </div>
+                <div class="item">
+                  <div class="col-lg-4 col-xs-4 col-md-4 col-sm-4">
+                  <a href="#"><img src="http://lorempixel.com/400/200/sports" class="img-responsive">7</a></div>
+                </div>
+                <div class="item">
+                  <div class="col-lg-4 col-xs-4 col-md-4 col-sm-4">
+                  <a href="#"><img src="http://lorempixel.com/400/200/" class="img-responsive">8</a></div>
+                </div>
+          </div>
+          <a class="left carousel-control" href="#myCarousel" data-slide="prev"><i class="glyphicon glyphicon-chevron-left"></i></a>
+          <a class="right carousel-control" href="#myCarousel" data-slide="next"><i class="glyphicon glyphicon-chevron-right"></i></a>
+        </div>
+    </div>
+</div>
 
+
+            <!--
             <div class="row">
                 <div class="features">
                     <div class="col-sm-6 col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
@@ -591,140 +729,10 @@
                     </div>
 
                 </div>
-            </div><!--/.row-->    
+            </div>  /.row--> 
+
         </div><!--/.container-->
-    </section><!--/#services-->
-
-     <section id="cta2">
-        <div class="container">
-            <div class="text-center">
-                <h2 class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">TOMASTE UNA DECISIÓN, <span>BIENVENIDO</span></h2>
-                <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms">Nuestro personal en ventas atenderá todos tus requerimientos. <br/>Te damos asesoria en todos nuestros productos.</p>
-                <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms"><a class="btn btn-primary btn-lg" href="#contact-area">Contáctenos</a></p>
-            </div>
-        </div>
-    </section>
-
-
-
-    <section id="features">
-        <div class="container">
-            <div class="section-header">
-                <h2 class="section-title text-center wow fadeInDown">Productos Destacados</h2>
-                <p class="text-center wow fadeInDown">Tenemos a tu disposición toda una gama de productos que seguro te serán de mucha ayuda, <br> dale un vistazo a nuestra principal línea de productos. </p>
-            </div>
-            <div class="row">
-                <div class="col-sm-6 wow fadeInLeft">
-
-                <!-- Slide Productos Destacados -->
-                <br>
-                  <div id="myCarousel" class="carousel slide" data-ride="carousel" style="background-color: transparent;">
-                    <!-- Indicators -->
-                    <ol class="carousel-indicators">
-                      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                      <li data-target="#myCarousel" data-slide-to="1"></li>
-                      <li data-target="#myCarousel" data-slide-to="2"></li>
-                      <li data-target="#myCarousel" data-slide-to="3"></li>
-                    </ol>
-
-                    <!-- Wrapper for slides -->
-                    <div class="carousel-inner" role="listbox">
-
-                      <div class="item active">
-                        <img src="images/main-feature.png" alt="Girasol">
-                        <div class="carousel-caption">
-                          <h3 style="color: white;">Girassol</h3>
-                          <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
-                        </div>
-                      </div>
-
-                      <div class="item">
-                        <img src="images/main-feature.png" alt="Chania">
-                        <div class="carousel-caption">
-                          <h3>Chania</h3>
-                          <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
-                        </div>
-                      </div>
-                    
-                      <div class="item">
-                        <img src="images/main-feature.png" alt="Rosa" >
-                        <div class="carousel-caption">
-                          <h3>Rosa</h3>
-                          <p>Beatiful flowers in Kolymbari, Crete.</p>
-                        </div>
-                      </div>
-
-                      <div class="item">
-                        <img src="images/main-feature.png" alt="Flower">
-                        <div class="carousel-caption">
-                          <h3>Flowers</h3>
-                          <p>Beatiful flowers in Kolymbari, Crete.</p>
-                        </div>
-                      </div>
-                  
-                    </div>
-
-                    <!-- Left and right controls -->
-                    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-                      <span class="fa fa-chevron-left" aria-hidden="true" style="padding-top: 250%; padding-right: 50%; padding-bottom: 250%; "></span>
-                      <span class="sr-only">Previous</span>
-                    </a>
-                    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-                      <span class="fa fa-chevron-right" aria-hidden="true" style="padding-top: 250%; padding-left: 50%; padding-bottom: 250%; "></span>
-                      <span class="sr-only">Next</span>
-                    </a>
-                  </div>
-                
-
-                   <!-- Aqui termina los Slides <img class="img-responsive" src="images/main-feature.png" alt=""> -->
-
-                </div>
-                <div class="col-sm-6">
-                    <div class="media service-box wow fadeInRight">
-                        <div class="pull-left">
-                            <img class="box-border img-responsive" src="images/portfolio/icon_herraje.png">
-                        </div>
-                        <div class="media-body">
-                            <h4 class="media-heading">Herrajerias</h4>
-                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
-                        </div>
-                    </div>
-
-                    <div class="media service-box wow fadeInRight">
-                        <div class="pull-left">
-                            <img class="box-border img-responsive" src="images/portfolio/icon_manga.png">
-                        </div>
-                        <div class="media-body">
-                            <h4 class="media-heading">Mangas</h4>
-                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
-                        </div>
-                    </div>
-
-                    <div class="media service-box wow fadeInRight">
-                        <div class="pull-left">
-                            <img class="box-border img-responsive" src="images/portfolio/icon_cajapresion.png">
-                        </div>
-                        <div class="media-body">
-                            <h4 class="media-heading">Caja de Presión</h4>
-                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
-                        </div>
-                    </div>
-
-                    <div class="media service-box wow fadeInRight">
-                        <div class="pull-left">
-                            <img class="box-border img-responsive" src="images/portfolio/icon_hebilla.png">
-                        </div>
-                        <div class="media-body">
-                            <h4 class="media-heading">Hebilla Eriband 1/2</h4>
-                            <p>Hebilla fabricada en Acero Inoxidable AISI 201, código B-C 254, para cintas de 3/4" ; acabado brillante estándar con una combinación de alta fuerza y el aspecto de calidad. Ofrece una buena resistencia a la oxidación y a muchos agentes corrosivos moderados.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-   
+    </section>  <!--/#features Principales Proveedores -->
     
     <!--<section id="portfolio">
         <div class="container">
@@ -850,13 +858,12 @@
     <!--</section><!--/#portfolio-->
 
 
-
     <section id="testimonial">
         <div class="container">
             <div class="row">
                 <div class="col-sm-8 col-sm-offset-2">
 
-                <div id="carousel-testimonial" class="carousel slide text-center" data-ride="carousel">
+                    <div id="carousel-testimonial" class="carousel slide text-center" data-ride="carousel">
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner" role="listbox">
                             <div class="item active">
@@ -889,8 +896,6 @@
             </div>
         </div>
     </section><!--/#testimonial-->
-
-
 
     <section id="contact-area">
         <div class="container">
