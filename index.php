@@ -44,7 +44,7 @@
                     <!-- logo -->
                     <div class="navbar-brand">
                         <a class="smooth-scroll" data-section="#home" href="#home" >
-                            <img src="images/logo.png" alt="">
+                            <img class="img-responsive" src="images/logo.png" alt="">
                         </a>
                     </div>
                     <!-- /logo -->
@@ -172,94 +172,19 @@
                 <p class="text-center wow fadeInDown">Te ofrecemos una gama de productos, entre ellos Fibra Óptica, Cobre y Seguridad Industrial. <br> Contamos con una amplia variedad de productos de telecomunicaciones y eléctricidad. </p>
             </div>
 
-            <div class="text-center" id="accordion">
-                <ul class="portfolio-filter nav">
-
-                      <!--  Aqui empieza el menu de productos -->
-                      <li tabindex='1'><a class="active" href="#" data-filter="*"> Todos</a></li>
-                      <li tabindex='2'><a href="#subfibra" data-toggle="collapse" data-parent="#accordion" data-filter=".fibra"> Fibra Óptica</a>
-                      
-                        <div id="subfibra" class="collapse three-columns izq-items">
-                          <ul>
-                            <li><a href=''>Ahigal de Villarino</a></li>
-                            <li><a href=''>Almendra</a></li>
-                            <li><a href=''>Barceo</a></li>
-                            <li><a href=''>Barruecopardo</a></li>
-                            <li><a href=''>Brincones</a></li>
-                            <li><a href=''>Cabeza del Caballo</a></li>
-                            <li><a href=''>Cerezal de Peñahorcada</a></li>
-                                <p>Catagua</p>
-                            <li><a href=''>El Milano</a></li>
-                            <li><a href=''>Encinasola de los Comendadores</a></li>
-                            <li><a href=''>Guadramiro</a></li>
-                            <li><a href=''>Iruelos</a></li>
-                            <li><a href=''>La Peña, La Vídola</a></li>
-                            <li><a href=''>La Zarza de Pumareda</a></li>
-                            <li><a href=''>Puertas</a></li>
-                           
-                                <p>Jose</p>
-                            <li><a href=''>Bogajo</a></li>
-                            <li><a href=''>Cerralbo</a></li>
-                            <li><a href=''>Fuenteliante</a></li>
-                            <li><a href=''>La Fregeneda</a></li>
-                            <li><a href=''>Hinojosa de Duero</a></li>
-                           
-                            <p>Abusejo</p>
-                            <li><a href=''>Alba de Yeltes</a></li>
-                            <li><a href=''>Aldehuela de Yeltes</a></li>
-                            <li><a href=''>Boada</a></li>
-                            <li><a href=''>Cabrillas</a></li>
-                            <li><a href=''>Castraz</a></li>
-                           
-                          </ul>
-                        </div>
-                      </li>
-
-                      <li tabindex='3'><a href="#subcobre" data-toggle="collapse" data-parent="#accordion" data-filter=".cobre"> Cobre</a>
-                        <div id="subcobre" class="collapse three-columns izq-items">
-                          <ul>
-                            <p>Catagua</p>
-                            <li><a data-toggle="modal" data-target="#miniposte" >Miniposte Polietileno</a></li>
-                            <li><a href=''>Almendra</a></li>
-                            <li><a href=''>Barceo</a></li>
-                            <li><a href=''>Barruecopardo</a></li>
-                            <li><a href=''>Brincones</a></li>
-                            <li><a href=''>Cabeza del Caballo</a></li>
-                            <li><a href=''>Cerezal de Peñahorcada</a></li>
-                                
-                            <li><a href=''>El Milano</a></li>
-                            <li><a href=''>Encinasola de los Comendadores</a></li>
-                            <li><a href=''>Guadramiro</a></li>
-                            <li><a href=''>Iruelos</a></li>
-                            <li><a href=''>La Peña, La Vídola</a></li>
-                            <li><a href=''>La Zarza de Pumareda</a></li>
-                            <li><a href=''>Puertas</a></li>
-                           
-                                <p>Jose</p>
-                            <li><a href=''>Bogajo</a></li>
-                            <li><a href=''>Cerralbo</a></li>
-                            <li><a href=''>Fuenteliante</a></li>
-                            <li><a href=''>La Fregeneda</a></li>
-                            <li><a href=''>Hinojosa de Duero</a></li>
-                           
-                            
-                            <li><a href=''>Alba de Yeltes</a></li>
-                            <li><a href=''>Aldehuela de Yeltes</a></li>
-                            <li><a href=''>Boada</a></li>
-                            <li><a href=''>Cabrillas</a></li>
-                            <li><a href=''>Castraz</a></li>
-                           
-                          </ul>
-                        </div>
-                      </li> <!--  Hasta aqui el menu de productos -->
-                    
-
-                    <!--<li><a class="active" href="#" data-filter="*">Todos</a></li>
-                    <li><a href="#" data-filter=".fibra">Fibra Optica</a></li>
-                    <li><a href="#" data-filter=".cobre">Cobre</a></li>
-                    <li><a href="#" data-filter=".seguridad">Seguridad Industrial</a></li> -->
-                </ul><!--/#portfolio-filter-->
-            </div>
+                <div class="row">
+                    <div> <!-- class="col-md-6"-->
+                    <!-- Nav tabs -->
+                        <div class="card">
+                            <ul class="nav nav-tabs" role="tablist">
+                                <li role="presentation" class="active"><a href="#todos" aria-controls="todos" role="tab" data-toggle="tab">Todos</a></li>
+                                <li role="presentation"><a href="#fibra" aria-controls="fibra" role="tab" data-toggle="tab">Fibra Óptica</a></li>
+                                <li role="presentation"><a href="#cobre" aria-controls="cobre" role="tab" data-toggle="tab">Cobre</a></li>
+                                <li role="presentation"><a href="#varios" aria-controls="varios" role="tab" data-toggle="tab">Varios</a></li>
+                            </ul>
+                    <!-- Tab panes -->
+                            <div class="tab-content">
+                                <div role="tabpanel" class="tab-pane active" id="todos">
 
             <div class="portfolio-items">
                 <div class="portfolio-item fibra">
@@ -494,8 +419,84 @@
                         </div>
                     </div>
                 </div><!--/.portfolio-item-->
-                
-            </div>
+            </div>  <!--/.portfolio-items--> 
+
+                                </div>
+                                <div role="tabpanel" class="tab-pane three-columns izq-items" id="fibra">
+                                    <ul>
+                                        <li><a href=''>Ahigal de Villarino</a></li>
+                                        <li><a href=''>Almendra</a></li>
+                                        <li><a href=''>Barceo</a></li>
+                                        <li><a href=''>Barruecopardo</a></li>
+                                        <li><a href=''>Brincones</a></li>
+                                        <li><a href=''>Cabeza del Caballo</a></li>
+                                        <li><a href=''>Cerezal de Peñahorcada</a></li>
+                                            <p>Catagua</p>
+                                        <li><a href=''>El Milano</a></li>
+                                        <li><a href=''>Encinasola de los Comendadores</a></li>
+                                        <li><a href=''>Guadramiro</a></li>
+                                        <li><a href=''>Iruelos</a></li>
+                                        <li><a href=''>La Peña, La Vídola</a></li>
+                                        <li><a href=''>La Zarza de Pumareda</a></li>
+                                        <li><a href=''>Puertas</a></li>
+                                       
+                                            <p>Jose</p>
+                                        <li><a href=''>Bogajo</a></li>
+                                        <li><a href=''>Cerralbo</a></li>
+                                        <li><a href=''>Fuenteliante</a></li>
+                                        <li><a href=''>La Fregeneda</a></li>
+                                        <li><a href=''>Hinojosa de Duero</a></li>
+                                       
+                                        <p>Abusejo</p>
+                                        <li><a href=''>Alba de Yeltes</a></li>
+                                        <li><a href=''>Aldehuela de Yeltes</a></li>
+                                        <li><a href=''>Boada</a></li>
+                                        <li><a href=''>Cabrillas</a></li>
+                                        <li><a href=''>Castraz</a></li>
+                                    </ul>
+                                </div>
+                                <div role="tabpanel" class="tab-pane three-columns izq-items" id="cobre">
+                                    <ul>
+                                        <p>Catagua</p>
+                                        <li><a data-toggle="modal" data-target="#miniposte" >Miniposte Polietileno</a></li>
+                                        <li><a href=''>Almendra</a></li>
+                                        <li><a href=''>Barceo</a></li>
+                                        <li><a href=''>Barruecopardo</a></li>
+                                        <li><a href=''>Brincones</a></li>
+                                        <li><a href=''>Cabeza del Caballo</a></li>
+                                        <li><a href=''>Cerezal de Peñahorcada</a></li>
+                                            
+                                        <li><a href=''>El Milano</a></li>
+                                        <li><a href=''>Encinasola de los Comendadores</a></li>
+                                        <li><a href=''>Guadramiro</a></li>
+                                        <li><a href=''>Iruelos</a></li>
+                                        <li><a href=''>La Peña, La Vídola</a></li>
+                                        <li><a href=''>La Zarza de Pumareda</a></li>
+                                        <li><a href=''>Puertas</a></li>
+                                       
+                                            <p>Jose</p>
+                                        <li><a href=''>Bogajo</a></li>
+                                        <li><a href=''>Cerralbo</a></li>
+                                        <li><a href=''>Fuenteliante</a></li>
+                                        <li><a href=''>La Fregeneda</a></li>
+                                        <li><a href=''>Hinojosa de Duero</a></li>
+                                       
+                                        
+                                        <li><a href=''>Alba de Yeltes</a></li>
+                                        <li><a href=''>Aldehuela de Yeltes</a></li>
+                                        <li><a href=''>Boada</a></li>
+                                        <li><a href=''>Cabrillas</a></li>
+                                        <li><a href=''>Castraz</a></li>
+                                       
+                                    </ul>
+                                </div>
+                                <div role="tabpanel" class="tab-pane" id="varios">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passage..</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            <!-- Aqui van los productos -->
         </div><!--/.container-->
     </section><!--/#portfolio-->
 
