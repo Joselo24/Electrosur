@@ -595,270 +595,93 @@
 
     <section id="features">
         <div class="container">
-
             <div class="section-header">
                 <h2 class="section-title text-center wow fadeInDown">Nuestros Principales Proveedores</h2>
                 <p class="text-center wow fadeInDown">Contamos con los grupos empresariales más selectos en el país, <br> por eso te ofrecemos la mejor línea de distribución, para productos de electricidad y telecomunicaciones.</p>
             </div>
             
-<!-- Proveedores Principales -->
-<div class="container">
-    <div class="col-md-12">
-        <div class="carousel slide" id="myCarousel">
-          <div class="carousel-inner">
-                <div class="item active">
-                  <div class="col-lg-4 col-xs-4 col-md-4 col-sm-4">
-                  <a href="#"><img src="http://lorempixel.com/400/200/sports" class="img-responsive">1</a></div>
-                </div>
-                <div class="item">
-                  <div class="col-lg-4 col-xs-4 col-md-4 col-sm-4">
-                  <a href="#"><img src="http://lorempixel.com/400/200/" class="img-responsive">2</a></div>
-                </div>
-                <div class="item">
-                  <div class="col-lg-4 col-xs-4 col-md-4 col-sm-4">
-                  <a href="#"><img src="http://lorempixel.com/400/200/sports" class="img-responsive">3</a></div>
-                </div>
-                <div class="item">
-                  <div class="col-lg-4 col-xs-4 col-md-4 col-sm-4">
-                  <a href="#"><img src="http://lorempixel.com/400/200/" class="img-responsive">4</a></div>
-                </div>
-                <div class="item">
-                  <div class="col-lg-4 col-xs-4 col-md-4 col-sm-4">
-                  <a href="#"><img src="http://lorempixel.com/400/200/sports" class="img-responsive">5</a></div>
-                </div>
-                <div class="item">
-                  <div class="col-lg-4 col-xs-4 col-md-4 col-sm-4">
-                  <a href="#"><img src="http://lorempixel.com/400/200/" class="img-responsive">6</a></div>
-                </div>
-                <div class="item">
-                  <div class="col-lg-4 col-xs-4 col-md-4 col-sm-4">
-                  <a href="#"><img src="http://lorempixel.com/400/200/sports" class="img-responsive">7</a></div>
-                </div>
-                <div class="item">
-                  <div class="col-lg-4 col-xs-4 col-md-4 col-sm-4">
-                  <a href="#"><img src="http://lorempixel.com/400/200/" class="img-responsive">8</a></div>
-                </div>
-          </div>
-          <a class="left carousel-control" href="#myCarousel" data-slide="prev"><i class="glyphicon glyphicon-chevron-left"></i></a>
-          <a class="right carousel-control" href="#myCarousel" data-slide="next"><i class="glyphicon glyphicon-chevron-right"></i></a>
-        </div>
-    </div>
-</div>
-
-
-            <!--
-            <div class="row">
-                <div class="features">
-                    <div class="col-sm-6 col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
-                        <div class="features-item">
-                            <div class="features-icon">
-                                <i class="fa fa-bicycle"></i>
-                            </div>
-                            <h3 class="features-title font-alt">Optimised for speed</h3>
-                            Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
+            <!-- Proveedores Principales -->
+            <div class="container">
+              <div class='row'>
+                <div class='col-md-12'>
+                  <div class="carousel slide media-carousel" id="media">
+                    <div class="carousel-inner">
+                      <div class="item  active">
+                        <div class="row">
+                          <div class="col-md-2">
+                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/3M-Logo1.png"></a>
+                          </div>          
+                          <div class="col-md-2">
+                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/corning-logo1.png"></a>
+                          </div>
+                          <div class="col-md-2">
+                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/Logo-Band-It1.png"></a>
+                          </div>   
+                          <div class="col-md-2">
+                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/SICHERT-logo1.png"></a>
+                          </div>  
+                          <div class="col-md-2">
+                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/3M-Logo1.png"></a>
+                          </div>          
+                          <div class="col-md-2">
+                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/corning-logo1.png"></a>
+                          </div>   
                         </div>
-                    </div>
-
-                    <div class="col-sm-6 col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms">
-                        <div class="features-item">
-                            <div class="features-icon">
-                                <i class="fa fa-cubes"></i>
-                            </div>
-                            <h3 class="features-title font-alt">SEO Services</h3>
-                            Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
+                      </div>
+                      <div class="item">
+                        <div class="row">
+                          <div class="col-md-2">
+                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/wpt-logo1.png"></a>
+                          </div>          
+                          <div class="col-md-2">
+                            <a class="thumbnail" href="#"><img alt="" src="http://placehold.it/150x150"></a>
+                          </div>
+                          <div class="col-md-2">
+                            <a class="thumbnail" href="#"><img alt="" src="http://placehold.it/150x150"></a>
+                          </div> 
+                          <div class="col-md-2">
+                            <a class="thumbnail" href="#"><img alt="" src="http://placehold.it/150x150"></a>
+                          </div>  
+                          <div class="col-md-2">
+                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/3M-Logo1.png"></a>
+                          </div>          
+                          <div class="col-md-2">
+                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/corning-logo1.png"></a>
+                          </div>     
                         </div>
-                    </div>
-
-                    <div class="col-sm-6 col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms">
-                        <div class="features-item">
-                            <div class="features-icon">
-                                <i class="fa fa-connectdevelop"></i>
-                            </div>
-                            <h3 class="features-title font-alt">Optimised for speed</h3>
-                            Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
+                      </div>
+                      <div class="item">
+                        <div class="row">
+                          <div class="col-md-2">
+                            <a class="thumbnail" href="#"><img alt="" src="http://placehold.it/150x150"></a>
+                          </div>          
+                          <div class="col-md-2">
+                            <a class="thumbnail" href="#"><img alt="" src="http://placehold.it/150x150"></a>
+                          </div>
+                          <div class="col-md-2">
+                            <a class="thumbnail" href="#"><img alt="" src="http://placehold.it/150x150"></a>
+                          </div>  
+                          <div class="col-md-2">
+                            <a class="thumbnail" href="#"><img alt="" src="http://placehold.it/150x150"></a>
+                          </div>  
+                          <div class="col-md-2">
+                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/3M-Logo1.png"></a>
+                          </div>          
+                          <div class="col-md-2">
+                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/corning-logo1.png"></a>
+                          </div>  
                         </div>
+                      </div>
                     </div>
-
-                    <div class="col-sm-6 col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">
-                        <div class="features-item">
-                            <div class="features-icon">
-                                <i class="fa  fa-diamond"></i>
-                            </div>
-                            <h3 class="features-title font-alt">Optimised for speed</h3>
-                            Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
-                        </div>
-                    </div>
-
-                    <div class="col-sm-6 col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="400ms">
-                        <div class="features-item">
-                            <div class="features-icon">
-                                <i class="fa fa-user-secret"></i>
-                            </div>
-                            <h3 class="features-title font-alt">Optimised for speed</h3>
-                            Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
-                        </div>
-                    </div>
-
-                    <div class="col-sm-6 col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="500ms">
-                        <div class="features-item">
-                            <div class="features-icon">
-                                <i class="fa fa-key"></i>
-                            </div>
-                            <h3 class="features-title font-alt">Optimised for speed</h3>
-                            Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
-                        </div>
-                    </div>
-
-                    <div class=" col-md-3  wow fadeInUp" data-wow-duration="300ms" data-wow-delay="600ms">
-                        <div class="features-item">
-                            <div class="features-icon">
-                                <i class="fa fa-laptop"></i>
-                            </div>
-                            <h3 class="features-title font-alt">Optimised for speed</h3>
-                            Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
-                        </div>
-                    </div>
-
-                    <div class="col-sm-6 col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="700ms">
-                        <div class="features-item">
-                            <div class="features-icon">
-                                <i class="fa fa-paw"></i>
-                            </div>
-                            <h3 class="features-title font-alt">Optimised for speed</h3>
-                            Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
-                        </div>
-                    </div>
-
+                    <a data-slide="prev" href="#media" class="left carousel-control">‹</a>
+                    <a data-slide="next" href="#media" class="right carousel-control">›</a>
+                  </div>                          
                 </div>
-            </div>  /.row--> 
-
+              </div>
+            </div><!-- FIN / Proveedores Principales -->
         </div><!--/.container-->
     </section>  <!--/#features Principales Proveedores -->
     
-    <!--<section id="portfolio">
-        <div class="container">
-            <div class="section-header">
-                <h2 class="section-title text-center wow fadeInDown">Our Works</h2>
-                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
-            </div>
-
-            <div class="text-center">
-                <ul class="portfolio-filter">
-                    <li><a class="active" href="#" data-filter="*">All Works</a></li>
-                    <li><a href="#" data-filter=".animation">Animation</a></li>
-                    <li><a href="#" data-filter=".Business">Business</a></li>
-                    <li><a href="#" data-filter=".art">Art</a></li>
-                </ul><!--/#portfolio-filter-->
-    <!--        </div>
-
-            <div class="portfolio-items">
-                <div class="portfolio-item animation">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/01.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 1</h3>
-                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
-                                <img src="images/portfolio/expand.png" alt="">
-                            </a>
-                        </div>
-                    </div>
-                </div><!--/.portfolio-item-->
-
-
-    <!--            <div class="portfolio-item Business art">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/02.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 2</h3>
-                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
-                                <img src="images/portfolio/expand.png" alt="">
-                            </a>
-                        </div>
-                    </div>
-                </div><!--/.portfolio-item-->
-
-    <!--            <div class="portfolio-item animation">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/03.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 3</h3>
-                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
-                                <img src="images/portfolio/expand.png" alt="">
-
-                            </a>
-                        </div>
-                    </div>
-                </div><!--/.portfolio-item-->
-
-    <!--            <div class="portfolio-item Business">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/04.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 4</h3>
-                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
-                                <img src="images/portfolio/expand.png" alt="">
-
-                            </a>
-                        </div>
-                    </div>
-                </div><!--/.portfolio-item-->
-
-    <!--            <div class="portfolio-item animation art">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/05.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 5</h3>
-                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
-                                <img src="images/portfolio/expand.png" alt="">
-
-                            </a>
-                        </div>
-                    </div>
-                </div><!--/.portfolio-item-->
-
-    <!--            <div class="portfolio-item Business">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/06.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 5</h3>
-                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
-                                <img src="images/portfolio/expand.png" alt="">
-
-                            </a>
-                        </div>
-                    </div>
-                </div><!--/.portfolio-item-->
-
-    <!--            <div class="portfolio-item animation art">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/07.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 7</h3>
-                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
-                                <img src="images/portfolio/expand.png" alt="">
-
-                            </a>
-                        </div>
-                    </div>
-                </div><!--/.portfolio-item-->
-
-    <!--            <div class="portfolio-item Business">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/08.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 8</h3>
-                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto">
-                                <img src="images/portfolio/expand.png" alt="">
-
-                            </a>
-                        </div>
-                    </div>
-                </div><!--/.portfolio-item-->
-    <!--        </div>
-        </div><!--/.container-->
-    <!--</section><!--/#portfolio-->
-
-
     <section id="testimonial">
         <div class="container">
             <div class="row">
@@ -941,16 +764,16 @@
                     <p class="text-center wow fadeInDown animated" style="visibility: visible;">Escribenos unas lineas. Tus palabras son importantes para nosotros.</p>
                 </div>
 
-                <form id="main-contact-form" name="contact-form" method="post" action="#">
+                <form id="main-contact-form" class="contact-form" name="contact-form" method="post" action="sendemail.php">
                     <div class="col-lg-6 animated animate-from-left" style="opacity: 1; left: 0px;">
 
                         <div class="form-group">
                                 <label for="name">Nombre (Requerido)</label>
-                                <input id="name" type="text" name="name" class="form-control" placeholder="José" required>
+                                <input id="name" type="text" name="name" class="form-control" placeholder="Jose Catagua" required>
                             </div>
                         <div class="form-group">
                                 <label for="email">Correo Electrónico</label>
-                                <input type="email" id="email" name="email" class="form-control" placeholder="joesitop@gmail.com" required>
+                                <input type="email" id="email" name="email" class="form-control" placeholder="alguien@ejemplo.com" required>
                             </div>
                         <div class="form-group">
                             <label for="subject">Tema</label>
@@ -966,11 +789,8 @@
                     </div>
                     <div class="clearfix"></div>
                     <div class="text-center">
-
-                          <button type="submit" class="btn btn-primary btn-lg btn-send-msg">Enviar Mensaje</button>
-
+                        <input type="submit" id="submit" name="submit" class="btn btn-primary btn-lg btn-send-msg" value="Enviar Mensaje">
                     </div>
-
                 </form>
 
             </div>
