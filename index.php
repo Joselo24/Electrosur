@@ -28,7 +28,6 @@
 
 <body id="home" class="homepage">
 
-
     <header id="top-header" class="navbar-inverse navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
@@ -55,7 +54,7 @@
                     <div class="main-menu">
                         <ul id="nav" class="nav navbar-nav">
                             <li class="scroll"><a href="#home" data-section="#home">Inicio</a></li>
-                            <li class="scroll"><a href="#about" data-section="#about">Nosostros</a></li>
+                            <li class="scroll"><a href="#about" data-section="#about">Nosotros</a></li>
                             <li class="scroll"><a href="#portfolio" data-section="#portfolio">Productos</a></li>
                             <li class="scroll"><a href="#services" data-section="#services">Destacados</a></li>
                             <li class="scroll"><a href="#features" data-section="#features">Proveedores</a></li>
@@ -66,7 +65,7 @@
                 <!-- /main nav -->
                 
             </div>
-        </header>
+    </header>
 
     <section id="main-slider">
         <div class="owl-carousel">
@@ -763,8 +762,8 @@
                     <h2 class="section-title text-center wow fadeInDown animated" style="visibility: visible;"><br>Enviar Mensaje</h2>
                     <p class="text-center wow fadeInDown animated" style="visibility: visible;">Escribenos unas lineas. Tus palabras son importantes para nosotros.</p>
                 </div>
-
-                <form id="main-contact-form" class="contact-form" name="contact-form" method="post" action="sendemail.php">
+                
+                <form id="main-contact-form" action="enviar.php" class="contact-form" name="contact-form" method="post" >
                     <div class="col-lg-6 animated animate-from-left" style="opacity: 1; left: 0px;">
 
                         <div class="form-group">
@@ -789,7 +788,7 @@
                     </div>
                     <div class="clearfix"></div>
                     <div class="text-center">
-                        <input type="submit" id="submit" name="submit" class="btn btn-primary btn-lg btn-send-msg" value="Enviar Mensaje">
+                        <input type="submit" name="submit" class="btn btn-primary btn-lg btn-send-msg" value="Enviar Mensaje">
                     </div>
                 </form>
 
@@ -833,3 +832,4 @@
     <script src="js/main.js"></script>
 </body>
 </html>
+
