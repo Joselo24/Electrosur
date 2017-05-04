@@ -3,16 +3,16 @@
 	/*		SCRIPT DEL FORMULARIO DE ENVIO 		*/
 
 	// definimos las variables o marcamos el error
-	if ( !empty($_REQUEST['nombres']) ) $nombres = $_REQUEST['nombres']; else $error = true;
-	if ( !empty($_REQUEST['email']) ) $email = $_REQUEST['email']; else $error = true;
-	if ( !empty($_REQUEST['subject']) ) $subject = $_REQUEST['subject']; else $error = true;
-	if ( !empty($_REQUEST['mensaje']) ) $mensaje = $_REQUEST['mensaje']; else $error = true;
+	if ( !empty($_POST['nombres']) ) $nombres = $_POST['nombres']; else $error = true;
+	if ( !empty($_POST['email']) ) $email = $_POST['email']; else $error = true;
+	if ( !empty($_POST['subject']) ) $subject = $_POST['subject']; else $error = true;
+	if ( !empty($_POST['mensaje']) ) $mensaje = $_POST['mensaje']; else $error = true;
 
-	/* verificamos que no exista un error
+	// verificamos que no exista un error
 	if (!empty($error)) {
 	header( 'Location: contacto_error.php' );
 	die;
-	}	*/
+	}
 
 	// definimos el cuerpo del email
 	$cuerpo = "
@@ -23,9 +23,7 @@
 	$mensaje
 	";
 
-	mail('joechelito@live.com','Recibiste un mensaje a través del formulario de contacto de tu sitio web', $cuerpo);
-
-	/* enviamos el email
+	// enviamos el email
 	if (mail('joechelito@live.com','Recibiste un mensaje a través del formulario de contacto de tu sitio web',$cuerpo)) {
 		header('Location: contacto_exitoso.php');
 		die;
@@ -34,6 +32,6 @@
 		header('Location: contacto_error.php');
 		die;
 	}
-	*/
+	
   
 ?>
