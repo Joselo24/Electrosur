@@ -8,11 +8,11 @@
 	if ( !empty($_REQUEST['subject']) ) $subject = $_REQUEST['subject']; else $error = true;
 	if ( !empty($_REQUEST['mensaje']) ) $mensaje = $_REQUEST['mensaje']; else $error = true;
 
-	// verificamos que no exista un error
+	/* verificamos que no exista un error
 	if (!empty($error)) {
 	header( 'Location: contacto_error.php' );
 	die;
-	}
+	}	*/
 
 	// definimos el cuerpo del email
 	$cuerpo = "
@@ -23,7 +23,9 @@
 	$mensaje
 	";
 
-	// enviamos el email
+	mail('joechelito@live.com','Recibiste un mensaje a través del formulario de contacto de tu sitio web', $cuerpo);
+
+	/* enviamos el email
 	if (mail('joechelito@live.com','Recibiste un mensaje a través del formulario de contacto de tu sitio web',$cuerpo)) {
 		header('Location: contacto_exitoso.php');
 		die;
@@ -32,6 +34,6 @@
 		header('Location: contacto_error.php');
 		die;
 	}
-	
+	*/
   
 ?>
