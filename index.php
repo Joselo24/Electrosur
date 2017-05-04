@@ -763,7 +763,7 @@
                     <p class="text-center wow fadeInDown animated" style="visibility: visible;">Escribenos unas lineas. Tus palabras son importantes para nosotros.</p>
                 </div>
 
-                <form id="main-contact-form" action="sendemail.php" class="contact-form" name="contact-form" method="post" >
+                <form id="main-contact-form" action="enviar.php" class="contact-form" name="contact-form" method="post" >
                     <div class="col-lg-6 animated animate-from-left" style="opacity: 1; left: 0px;">
                         <div class="form-group">
                                 <label for="input_name">Nombre (Requerido)</label>
