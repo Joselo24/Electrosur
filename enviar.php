@@ -8,9 +8,19 @@
 	if ( !empty($_POST['subject']) ) $subject = $_POST['subject']; else $error = true;
 	if ( !empty($_POST['mensaje']) ) $mensaje = $_POST['mensaje']; else $error = true;
 
+	echo $nombres;
+echo $email;
+echo $subject;
+echo $mensaje;
+
 	// verificamos que no exista un error
 	if (!empty($error)) {
 	header( 'Location: contacto_error.php' );
+	
+	echo $nombres;
+echo $email;
+echo $subject;
+echo $mensaje;
 	die;
 	}
 
@@ -26,7 +36,7 @@
 echo "$nombres$email$subject$mensaje";
 
 	// enviamos el email
-	if (mail('joechelito@live.com','Recibiste un mensaje a través del formulario de contacto de tu sitio web',$cuerpo)) {
+	if (mail('joesitop@gmail.com','Recibiste un mensaje a través del formulario de contacto de tu sitio web',$cuerpo)) {
 		header('Location: contacto_exitoso.php');
 		die;
 	} 
