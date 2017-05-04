@@ -767,28 +767,28 @@
                     <div class="col-lg-6 animated animate-from-left" style="opacity: 1; left: 0px;">
 
                         <div class="form-group">
-                                <label for="name">Nombre (Requerido)</label>
-                                <input id="name" type="text" name="nombres" class="form-control" placeholder="Jose Catagua" required="*">
+                                <label for="input_name">Nombre (Requerido)</label>
+                                <input id="input_name" type="text" name="nombres" class="form-control" placeholder="Jose Catagua">
                             </div>
                         <div class="form-group">
-                                <label for="email">Correo Electrónico</label>
-                                <input type="email" id="email" name="email" class="form-control" placeholder="alguien@ejemplo.com" required>
+                                <label for="input_email">Correo Electrónico</label>
+                                <input type="email" id="input_email" name="email" class="form-control" placeholder="alguien@ejemplo.com">
                             </div>
                         <div class="form-group">
-                            <label for="subject">Tema</label>
-                            <input type="text" id="subject" name="subject" class="form-control" placeholder="Herrajeria" required>
+                            <label for="input_subject">Tema</label>
+                            <input type="text" id="input_subject" name="subject" class="form-control" placeholder="Herrajeria" >
                         </div>
 
                     </div>
                     <div class="col-lg-6 animated animate-from-right" style="opacity: 1; right: 0px;">
                         <div class="form-group">
-                            <label for="message">Tu Mensaje</label>
-                            <textarea id="message" name="mensaje" class="form-control" rows="8" placeholder="Me interesa saber el precio..." required></textarea>
+                            <label for="textarea_mensaje">Tu Mensaje</label>
+                            <textarea id="textarea_mensaje" name="mensaje" class="form-control" rows="8" placeholder="Me interesa saber el precio..." ></textarea>
                         </div>
                     </div>
                     <div class="clearfix"></div>
                     <div class="text-center">
-                        <input type="submit" name="submit" class="btn btn-primary btn-lg btn-send-msg" value="Enviar Mensaje">
+                        <input type="submit" id="input_enviar" name="enviar" class="btn btn-primary btn-lg btn-send-msg" value="Enviar Mensaje">
                     </div>
                 </form>
 
