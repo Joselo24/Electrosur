@@ -764,6 +764,11 @@ img.box-border {
 }
 
 /*************** Carousel Productos Destacados ***************/
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width: 100%;
+  margin: auto;
+}
 
 /*************** Carousel Proveedores ***************/
 /* carousel */
