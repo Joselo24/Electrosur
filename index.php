@@ -763,11 +763,11 @@
                     <p class="text-center wow fadeInDown animated" style="visibility: visible;">Escribenos unas lineas. Tus palabras son importantes para nosotros.</p>
                 </div>
 
-                <form id="main-contact-form" action="enviar.php" class="contact-form" name="contact-form" method="post" >
+                <form id="main-contact-form" action="sendemail.php" class="contact-form" name="contact-form" method="post" >
                     <div class="col-lg-6 animated animate-from-left" style="opacity: 1; left: 0px;">
                         <div class="form-group">
                                 <label for="input_name">Nombre (Requerido)</label>
-                                <input id="input_name" type="text" name="nombres" class="form-control" placeholder="Jose Catagua" required="">
+                                <input id="input_name" type="text" name="name" class="form-control" placeholder="Jose Catagua" required="">
                             </div>
                         <div class="form-group">
                                 <label for="input_email">Correo Electrónico</label>
@@ -782,7 +782,7 @@
                     <div class="col-lg-6 animated animate-from-right" style="opacity: 1; right: 0px;">
                         <div class="form-group">
                             <label for="textarea_mensaje">Tu Mensaje</label>
-                            <textarea id="textarea_mensaje" name="mensaje" class="form-control" rows="8" placeholder="Me interesa saber el precio..." required=""></textarea>
+                            <textarea id="textarea_mensaje" name="message" class="form-control" rows="8" placeholder="Me interesa saber el precio..." required=""></textarea>
                         </div>
                     </div>
                     <div class="clearfix"></div>
