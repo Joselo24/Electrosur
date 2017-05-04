@@ -154,7 +154,6 @@ jQuery(function($) {'use strict';
 		});
 	});
 
-/*
 	// Contact form
 	var form = $('#main-contact-form');
 	form.submit(function(event){
@@ -183,6 +182,6 @@ jQuery(function($) {'use strict';
                 interval: 5200,
             });
         });
-*/
+	
 
 });
