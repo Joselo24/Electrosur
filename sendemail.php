@@ -7,6 +7,11 @@
   $subject = $_REQUEST['subject'];
   $comment = $_REQUEST['message']; 
 
+echo $name;
+echo $email;
+echo $subject;
+echo $comment;
+
   //send email
   mail($admin_email, $subject, $comment, "From:" . $email);	
 
