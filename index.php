@@ -765,7 +765,6 @@
 
                 <form id="main-contact-form" action="enviar.php" class="contact-form" name="contact-form" method="post" >
                     <div class="col-lg-6 animated animate-from-left" style="opacity: 1; left: 0px;">
-
                         <div class="form-group">
                                 <label for="input_name">Nombre (Requerido)</label>
                                 <input id="input_name" type="text" name="nombres" class="form-control" placeholder="Jose Catagua" required="">
