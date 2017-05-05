@@ -71,7 +71,7 @@
 	<div class="container">
 	  <div class="text-center">
 		<div class="col-sm-12 wow fadeInLeft">
-			<p> El e-mail ha sido enviado correctamente, <br> a la brevedad nos pondremos en contacto con usted.</p>
+			<p>El e-mail ha sido enviado correctamente, <br> a la brevedad nos pondremos en contacto con usted.<br> Gracias es un placer servirle</p>
 			<a class="btn btn-primary btn-lg btn-send-msg" href="index.php"> Regresar</a>
 		</div>
 	  </div>
