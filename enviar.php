@@ -8,9 +8,6 @@
 	if ( !empty($_POST['subject']) ) $subject = $_POST['subject']; else $error = true;
 	if ( !empty($_POST['mensaje']) ) $mensaje = $_POST['mensaje']; else $error = true;
 
-	
-
-
 	/* verificamos que no exista un error 	*/
 	if (!empty($error)) {
 	header( 'Location: contacto_error.php' );
@@ -36,5 +33,4 @@
 		die;
 	}	
 
-  
 ?>
