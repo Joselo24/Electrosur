@@ -552,7 +552,7 @@
                         <div class="pull-left">
                             <img class="box-border img-responsive" src="images/portfolio/icon_herraje.png">
                         </div>
-                        <div class="media-body">
+                        <div class="media-body izq-justify" >
                             <h5 class="media-heading">Herrajerias</h5>
                             <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
                         </div>
@@ -562,7 +562,7 @@
                         <div class="pull-left">
                             <img class="box-border img-responsive" src="images/portfolio/icon_manga.png">
                         </div>
-                        <div class="media-body">
+                        <div class="media-body izq-justify">
                             <h5 class="media-heading">Mangas</h5>
                             <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
                         </div>
@@ -572,7 +572,7 @@
                         <div class="pull-left">
                             <img class="box-border img-responsive" src="images/portfolio/icon_cajapresion.png">
                         </div>
-                        <div class="media-body">
+                        <div class="media-body izq-justify">
                             <h5 class="media-heading">Caja de Presión</h5>
                             <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
                         </div>
@@ -582,7 +582,7 @@
                         <div class="pull-left">
                             <img class="box-border img-responsive" src="images/portfolio/icon_hebilla.png">
                         </div>
-                        <div class="media-body">
+                        <div class="media-body izq-justify">
                             <h5 class="media-heading">Hebilla Eriband 1/2</h5>
                             <p>Hebilla fabricada en Acero Inoxidable AISI 201, código B-C 254, para cintas de 3/4" ; acabado brillante estándar con una combinación de alta fuerza y el aspecto de calidad. Ofrece una buena resistencia a la oxidación y a muchos agentes corrosivos moderados.</p>
                         </div>

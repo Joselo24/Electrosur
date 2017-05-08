@@ -24,7 +24,7 @@
 
 
 	/* enviamos el email 	*/
-	if (mail('joesitop@gmail.com','Recibiste un mensaje a través del formulario de contacto de tu sitio web', $cuerpo)) {
+	if (mail('ventas@electrosur.com.ec','Recibiste un mensaje a través del formulario de contacto de tu sitio web', $cuerpo)) {
 		header('Location: contacto_exitoso.php');
 		die;
 	} 
