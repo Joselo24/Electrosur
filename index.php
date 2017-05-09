@@ -19,11 +19,15 @@
     <script src="js/html5shiv.js"></script>
     <script src="js/respond.min.js"></script>
     <![endif]-->       
-    <link rel="shortcut icon" href="images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="shortcut icon" href="images/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="images/ico/apple-touch-icon-180-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="images/ico/apple-touch-icon-152-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="images/ico/apple-touch-icon-76-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="images/ico/apple-touch-icon-60-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="images/ico/apple-touch-icon-57-precomposed.png">
 </head><!--/head-->
 
 <body id="home" class="homepage">
@@ -174,7 +178,7 @@
                 <div class="row">
                     <div> <!-- class="col-md-6"-->
                     <!-- Nav tabs -->
-                        <div class="card">
+                        <div class="card wow fadeInDown">
                             <ul class="nav nav-tabs" role="tablist">
                                 <li role="presentation" class="active"><a href="#todos" aria-controls="todos" role="tab" data-toggle="tab">Todos</a></li>
                                 <li role="presentation"><a href="#fibra" aria-controls="fibra" role="tab" data-toggle="tab">Fibra Óptica</a></li>
@@ -500,7 +504,7 @@
     </section><!--/#portfolio-->
 
     <section id="cta2">
-        <div class="container">
+        <div class="container wow fadeInDown">
             <div class="text-center">
                 <h2 class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">TOMASTE UNA DECISIÓN, <span>BIENVENIDO</span></h2>
                 <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms">Nuestro personal en ventas atenderá todos tus requerimientos. <br/>Te damos asesoria en todos nuestros productos.</p>
