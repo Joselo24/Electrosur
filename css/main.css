@@ -164,7 +164,7 @@ ul.nostyle i {
  
 }
 #top-header {
-  padding: 3px 0 10px 0; /* Acho de la barra de titulo color negro #262f32 */
+  padding: 3px 0 10px 0; /* Ancho de la barra de titulo color negro #262f32 */
 }
 
 @media only screen and (min-width: 768px) {
