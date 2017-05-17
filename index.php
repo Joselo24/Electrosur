@@ -3,9 +3,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <title>Electro Sur</title>
+    <meta name="description" content="Electro Sur - Ecuador, Telecomunicaciones y Electricidad, Energía Eléctrica y Telecomunicaciones, Regletas de Conexión y Corte, Herrajes para redes de cobre y de fibra óptica, Empalmes para redes de cobre y de fibra óptica, Cintas de Vinil y Conectores, Seguridad Industria">
+    <meta name="autor" content="José Catagua">
+    <title>Electro Sur - Ecuador, Telecomunicaciones y Electricidad, Energía Eléctrica y Telecomunicaciones, Regletas de Conexión y Corte, Herrajes para redes de cobre y de fibra óptica, Empalmes para redes de cobre y de fibra óptica, Cintas de Vinil y Conectores, Seguridad Industria</title>
 	<!-- core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
@@ -80,7 +80,7 @@
                             <div class="col-md-12">
                                 <div class="carousel-content text-center">
                                     <h2>Nuestro objetivo principal es la satisfacción contínua de nuestros <span>Clientes</span></h2> 
-                                    <p style="font-size: 20px;">Somos proveedores de equipos, partes, respuestos y materiales de redes de comunicaciones, redes eléctricas, seguridad industrial.</p>
+                                    <p style="font-size: 20px;">Somos proveedores de equipos, partes, repuestos y materiales de redes de comunicaciones, redes eléctricas, seguridad industrial.</p>
                                     <!--<a class="btn btn-primary btn-lg" href="#">Read More</a>-->                      
                                 </div>
                             </div>
@@ -110,7 +110,7 @@
                             <div class="col-md-12">
                                 <div class="carousel-content text-center">
                                     <h2>Experiencia en las áreas de energía <span>Eléctrica</span> y <span>Telecomunicaciones</span></h2>
-                                     <p style="font-size: 20px;">Especializada en construcción, instalación, matenimmiento e Integración de Proyectos y Sistemas Electrónicos de Comunicación. </p>
+                                     <p style="font-size: 20px;">Especializada en construcción, instalación, mantenimiento e Integración de Proyectos y Sistemas Electrónicos de Comunicación. </p>
                                     <!--<a class="btn btn-primary btn-lg" href="#">Read More</a>-->
                                 </div>
                             </div>
