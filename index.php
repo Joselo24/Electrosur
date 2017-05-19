@@ -886,87 +886,6 @@
             <div class="col-sm-12 wow fadeInUp">
                 <a><img class="img-responsive" src="images/provedores/Collage-proveedores.png"></a>   
             </div>
-
-            
-            <!-- Proveedores Principales ->
-            <div class="container">
-              <div class='row'>
-                <div class='col-md-12'>
-                  <div class="carousel slide media-carousel" id="media">
-                    <div class="carousel-inner">
-                      <div class="item  active">
-                        <div class="row">
-                          <div class="col-md-2">
-                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/3M-Logo1.png"></a>
-                          </div>          
-                          <div class="col-md-2">
-                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/corning-logo1.png"></a>
-                          </div>
-                          <div class="col-md-2">
-                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/Logo-Band-It1.png"></a>
-                          </div>   
-                          <div class="col-md-2">
-                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/SICHERT-logo1.png"></a>
-                          </div>  
-                          <div class="col-md-2">
-                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/3M-Logo1.png"></a>
-                          </div>          
-                          <div class="col-md-2">
-                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/corning-logo1.png"></a>
-                          </div>   
-                        </div>
-                      </div>
-                      <div class="item">
-                        <div class="row">
-                          <div class="col-md-2">
-                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/wpt-logo1.png"></a>
-                          </div>          
-                          <div class="col-md-2">
-                            <a class="thumbnail" href="#"><img alt="" src="http://placehold.it/150x150"></a>
-                          </div>
-                          <div class="col-md-2">
-                            <a class="thumbnail" href="#"><img alt="" src="http://placehold.it/150x150"></a>
-                          </div> 
-                          <div class="col-md-2">
-                            <a class="thumbnail" href="#"><img alt="" src="http://placehold.it/150x150"></a>
-                          </div>  
-                          <div class="col-md-2">
-                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/3M-Logo1.png"></a>
-                          </div>          
-                          <div class="col-md-2">
-                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/corning-logo1.png"></a>
-                          </div>     
-                        </div>
-                      </div>
-                      <div class="item">
-                        <div class="row">
-                          <div class="col-md-2">
-                            <a class="thumbnail" href="#"><img alt="" src="http://placehold.it/150x150"></a>
-                          </div>          
-                          <div class="col-md-2">
-                            <a class="thumbnail" href="#"><img alt="" src="http://placehold.it/150x150"></a>
-                          </div>
-                          <div class="col-md-2">
-                            <a class="thumbnail" href="#"><img alt="" src="http://placehold.it/150x150"></a>
-                          </div>  
-                          <div class="col-md-2">
-                            <a class="thumbnail" href="#"><img alt="" src="http://placehold.it/150x150"></a>
-                          </div>  
-                          <div class="col-md-2">
-                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/3M-Logo1.png"></a>
-                          </div>          
-                          <div class="col-md-2">
-                            <a class="thumbnail" href="#"><img alt="" src="images/provedores/corning-logo1.png"></a>
-                          </div>  
-                        </div>
-                      </div>
-                    </div>
-                    <a data-slide="prev" href="#media" class="left carousel-control">‹</a>
-                    <a data-slide="next" href="#media" class="right carousel-control">›</a>
-                  </div>                          
-                </div>
-              </div>
-            </div><!- FIN / Proveedores Principales -->
         </div><!--/.container-->
     </section>  <!--/#features Principales Proveedores -->
     
@@ -1096,11 +1015,11 @@
                     </p>
                     
                     <ul class="social-icons text-center">
-                        <li><a target="_blank" href="https://www.facebook.com/Electro-Sur-303527456508685/"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                        <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-                        <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                        <li><a target="_blank" href="https://www.facebook.com/Electro-Sur-303527456508685/"><i class="fa fa-facebook-square fa-2x"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter-square fa-2x"></i></a></li>
+                        <li><a href="#"><i class="fa fa-google-plus-square fa-2x"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
+                        <li><a href="#"><i class="fa fa-youtube-square fa-2x"></i></a></li>
                     </ul>
                 </div>
             </div>
