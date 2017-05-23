@@ -3,9 +3,11 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Electro Sur - Ecuador, Telecomunicaciones y Electricidad, Energía Eléctrica y Telecomunicaciones, Regletas de Conexión y Corte, Herrajes para redes de cobre y de fibra óptica, Empalmes para redes de cobre y de fibra óptica, Cintas de Vinil y Conectores, Seguridad Industria">
+    <title>Electro Sur, Telecomunicaciones y Electricidad, Energía Eléctrica y Telecomunicaciones, Regletas de Conexión y Corte, herrajes y empalmes para redes de cobre y de fibra óptica, Cintas de Vinil y Conectores, Seguridad Industria</title>
+    <meta name=”keywords” content="Electro Sur, Ecuador, Telecomunicaciones, Electricidad, Energía Eléctrica, Regletas de Conexión y Corte, Herrajes para redes de cobre y de fibra óptica, empalmes para redes de cobre y de fibra óptica, Cintas de Vinil y Conectores, Seguridad Industria">
+    <meta name="description" content="Ferretería Electro Sur ofrece productos en herrajes y empalmes para redes de cobre y de fibra óptica, Seguridad Industria, Energía Eléctrica y Telecomunicaciones, Cintas de Vinil y Conectores, Regletas de Conexión y Corte para distribución en el Ecuador">
     <meta name="autor" content="José Catagua">
-    <title>Electro Sur - Ecuador, Telecomunicaciones y Electricidad, Energía Eléctrica y Telecomunicaciones, Regletas de Conexión y Corte, Herrajes para redes de cobre y de fibra óptica, Empalmes para redes de cobre y de fibra óptica, Cintas de Vinil y Conectores, Seguridad Industria</title>
+    
 	<!-- core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
@@ -1011,15 +1013,15 @@
                         <span class="fa fa-chevron-up social-icons"></span>
                     </a>
                     <p class="text-center"><br>
-                        &copy; Todos los derechos reservados <a target="_blank" href="http://www.electrosur.com.ec" title="Empresa de Telecomunicaciones"> - Electro Sur CIA. LTDA. 2017 </a>
+                        &copy; Todos los derechos reservados - Electro Sur CIA. LTDA. 2017 <br><a target="_blank" href="http://www.electrosur.com.ec" title="Empresa de Telecomunicaciones"> Visita Nuestro Blog</a>
                     </p>
                     
                     <ul class="social-icons text-center">
-                        <li><a target="_blank" href="https://www.facebook.com/Electro-Sur-303527456508685/"><i class="fa fa-facebook-square fa-2x"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter-square fa-2x"></i></a></li>
-                        <li><a href="#"><i class="fa fa-google-plus-square fa-2x"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
-                        <li><a href="#"><i class="fa fa-youtube-square fa-2x"></i></a></li>
+                        <li><a target="_blank" href="https://www.facebook.com/Electro-Sur-303527456508685/" title="Facebook"><i class="fa fa-facebook-square fa-2x"></i></a></li>
+                        <li><a target="_blank" href="https://twitter.com/electrosur75" title="Twitter"><i class="fa fa-twitter-square fa-2x"></i></a></li>
+                        <li><a target="_blank" href="https://plus.google.com/u/0/b/105271136888808848384/105271136888808848384" title="Google+"><i class="fa fa-google-plus-square fa-2x"></i></a></li>
+                        <li><a target="_blank" href="https://www.linkedin.com/in/electro-sur-138751143/" title="LinkedIn"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
+                        <li><a target="_blank" href="https://www.youtube.com/channel/UC8gqXiYLVzZgRyCUdFBsrUA" title="Youtube"><i class="fa fa-youtube-square fa-2x"></i></a></li>
                     </ul>
                 </div>
             </div>
