@@ -112,7 +112,7 @@ jQuery(function($) {'use strict';
 	        //if percentTime is equal or greater than 100
 	        if(percentTime >= 100){
 	          //slide to next item 
-	          $elem.trigger('owl.next')
+	          $elem.trigger('owl.next');
 	        }
 	      }
 	    }

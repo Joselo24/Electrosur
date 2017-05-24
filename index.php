@@ -22,14 +22,14 @@
     <script src="js/respond.min.js"></script>
     <![endif]-->       
     <link rel="shortcut icon" href="images/ico/favicon.ico">
-    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="images/ico/apple-touch-icon-180-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="images/ico/apple-touch-icon-152-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="images/ico/apple-touch-icon-76-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="images/ico/apple-touch-icon-60-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="images/ico/apple-touch-icon-57-precomposed.png">
+    <link rel="apple-touch-icon-precomposed icon" sizes="180x180" href="images/ico/apple-touch-icon-180-precomposed.png">
+    <link rel="apple-touch-icon-precomposed icon" sizes="152x152" href="images/ico/apple-touch-icon-152-precomposed.png">
+    <link rel="apple-touch-icon-precomposed icon" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed icon" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed icon" sizes="76x76" href="images/ico/apple-touch-icon-76-precomposed.png">
+    <link rel="apple-touch-icon-precomposed icon" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed icon" sizes="60x60" href="images/ico/apple-touch-icon-60-precomposed.png">
+    <link rel="apple-touch-icon-precomposed icon" sizes="57x57" href="images/ico/apple-touch-icon-57-precomposed.png">
 </head><!--/head-->
 
 <body id="home" class="homepage">
@@ -75,7 +75,7 @@
 
     <section id="main-slider">
         <div class="owl-carousel">
-            <div class="item" style="background-image: url(images/slider/bg1.png);">
+            <div class="item" style="background-image: url(images/slider/bg1.jpg);">
                 <div class="slider-inner">
                     <div class="container">
                         <div class="row">
@@ -90,7 +90,7 @@
                     </div>
                 </div>
             </div><!--/.item-->
-            <div class="item" style="background-image: url(images/slider/bg2.png);">
+            <div class="item" style="background-image: url(images/slider/bg2.jpg);">
                 <div class="slider-inner">
                     <div class="container">
                         <div class="row">
@@ -105,7 +105,7 @@
                     </div>
                 </div>
             </div><!--/.item-->
-            <div class="item" style="background-image: url(images/slider/bg3.png);">
+            <div class="item" style="background-image: url(images/slider/bg3.jpg);">
                 <div class="slider-inner">
                     <div class="container">
                         <div class="row">
@@ -120,7 +120,7 @@
                     </div>
                 </div>
             </div><!--/.item-->
-            <div class="item" style="background-image: url(images/slider/bg4.png);">
+            <div class="item" style="background-image: url(images/slider/bg4.jpg);">
                 <div class="slider-inner">
                     <div class="container">
                         <div class="row">
@@ -171,10 +171,10 @@
               <div class="modal-content">
                 <div class="modal-header">
                   <button type="button" class="close" data-dismiss="modal">×</button>
-                  <a><img class="img-responsive" src="images/logo1.jpg"></a>
+                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>
                 </div>
                     <!-- Reseña Mision Vision Valores -->
-                    <embed src="productos/infoElectroSur.html" class="pdf_estilo"></embed>               
+                    <embed src="paginas/infoElectroSur.html" class="pdf_estilo"></embed>               
                 <div class="modal-footer">
                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
 
@@ -220,12 +220,12 @@
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
                                   <h4 class="modal-title">Miniposte Polietileno </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -249,12 +249,12 @@
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
                                   <h4 class="modal-title">Miniposte Polietileno </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="productos/miniposte1.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/miniposte1.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -278,12 +278,12 @@
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
                                   <h4 class="modal-title">Miniposte Polietileno </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -307,12 +307,12 @@
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
                                   <h4 class="modal-title">Miniposte Polietileno </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -336,12 +336,12 @@
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
                                   <h4 class="modal-title">Miniposte Polietileno </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -365,12 +365,12 @@
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
                                   <h4 class="modal-title">Miniposte Polietileno </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -394,12 +394,12 @@
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
                                   <h4 class="modal-title">Miniposte Polietileno </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -423,12 +423,12 @@
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
                                   <h4 class="modal-title">Miniposte Polietileno </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -458,12 +458,12 @@
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
                                   <h4 class="modal-title">Miniposte Polietileno </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -487,12 +487,12 @@
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
                                   <h4 class="modal-title">Miniposte Polietileno </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="productos/miniposte1.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/miniposte1.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -516,12 +516,12 @@
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
                                   <h4 class="modal-title">Miniposte Polietileno </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -545,12 +545,12 @@
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
                                   <h4 class="modal-title">Miniposte Polietileno </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -574,12 +574,12 @@
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
                                   <h4 class="modal-title">Miniposte Polietileno </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -603,12 +603,12 @@
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
                                   <h4 class="modal-title">Miniposte Polietileno </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -638,12 +638,12 @@
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
                                   <h4 class="modal-title">Miniposte Polietileno </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -667,12 +667,12 @@
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
                                   <h4 class="modal-title">Miniposte Polietileno </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="productos/miniposte1.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/miniposte1.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -696,12 +696,12 @@
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
                                   <h4 class="modal-title">Miniposte Polietileno </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -725,12 +725,12 @@
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <a><img class="img-responsive" src="images/logo1.jpg"></a>   
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
                                   <h4 class="modal-title">Miniposte Polietileno </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="productos/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -753,7 +753,7 @@
                                         <li><a href=''>Brincones</a></li>
                                         <li><a href=''>Cabeza del Caballo</a></li>
                                         <li><a href=''>Cerezal de Peñahorcada</a></li>
-                                            <p>Catagua</p>
+                                            <li><p>Catagua</p></li>
                                         <li><a href=''>El Milano</a></li>
                                         <li><a href=''>Encinasola de los Comendadores</a></li>
                                         <li><a href=''>Guadramiro</a></li>
@@ -762,14 +762,14 @@
                                         <li><a href=''>La Zarza de Pumareda</a></li>
                                         <li><a href=''>Puertas</a></li>
                                        
-                                            <p>Jose</p>
+                                            <li><p>Jose</p></li>
                                         <li><a href=''>Bogajo</a></li>
                                         <li><a href=''>Cerralbo</a></li>
                                         <li><a href=''>Fuenteliante</a></li>
                                         <li><a href=''>La Fregeneda</a></li>
                                         <li><a href=''>Hinojosa de Duero</a></li>
                                        
-                                        <p>Abusejo</p>
+                                            <li><p>Abusejo</p></li>
                                         <li><a href=''>Alba de Yeltes</a></li>
                                         <li><a href=''>Aldehuela de Yeltes</a></li>
                                         <li><a href=''>Boada</a></li>
@@ -810,12 +810,12 @@
                         <div class="carousel-inner" role="listbox">
                             <div class="item active">
                                 <p><img class="img-responsive" src="images/CollageHerrajeFibra.png" alt=""></p>
-                                <h4>Herrajerias Para Fibra</h5>
+                                <h4>Herrajerias Para Fibra</h4>
                                 <small><strong>Abrazaderas:</strong> para Poste con Brazo Tensor – para Poste Simple – tipo I con Mordaza <br> <strong>Herrajes:</strong> de paso tipo L – F.O. tipo B – Terminal con gancho <br> <strong>Bases:</strong> con Gancho – con Perno de Ojo </small>                               
                             </div>
                             <div class="item">
                                 <p><img class="img-responsive" src="images/CollageHerrajeCobre.png" alt=""></p>
-                                <h4>Herrajerias Para Cobre</h5>
+                                <h4>Herrajerias Para Cobre</h4>
                                 <small><strong>Herrajes:</strong> tipo Q, L, de Paso, Terminal, de Poste <br> Abrazaderas: – Bases – Brazo Tensor – Gancho Terminal – Grapa de Acero – Grilletes – Lamina de Sujeción – Perno de Ojo – Soportes Cajas Dispersión – Lagarto </small>
                             </div>
                         </div>
@@ -886,7 +886,7 @@
                 <p class="text-center wow fadeInDown">Contamos con los grupos empresariales más selectos en el país, <br> por eso te ofrecemos la mejor línea de distribución, para productos de electricidad y telecomunicaciones.</p>
             </div>
             <div class="col-sm-12 wow fadeInUp">
-                <a><img class="img-responsive" src="images/provedores/Collage-proveedores.png"></a>   
+                <a><img class="img-responsive" src="images/provedores/Collage-proveedores.png" alt="Proveedores de Electro Sur"></a>   
             </div>
         </div><!--/.container-->
     </section>  <!--/#features Principales Proveedores -->
@@ -896,7 +896,7 @@
             <div class="row">
                 <div class="col-sm-8 col-sm-offset-2">
 
-                    <div id="carousel-testimonial" class="carousel slide text-center" data-ride="carousel">
+                    <div id="carousel-testimonial2" class="carousel slide text-center" data-ride="carousel">
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner" role="listbox">
                             <div class="item active">
@@ -915,11 +915,11 @@
 
                         <!-- Controls -->
                         <div class="btns">
-                            <a class="btn btn-primary btn-sm" href="#carousel-testimonial" role="button" data-slide="prev">
+                            <a class="btn btn-primary btn-sm" href="#carousel-testimonial2" role="button" data-slide="prev">
                                 <span class="fa fa-angle-left" aria-hidden="true"></span>
                                 <span class="sr-only">Previous</span>
                             </a>
-                            <a class="btn btn-primary btn-sm" href="#carousel-testimonial" role="button" data-slide="next">
+                            <a class="btn btn-primary btn-sm" href="#carousel-testimonial2" role="button" data-slide="next">
                                 <span class="fa fa-angle-right" aria-hidden="true"></span>
                                 <span class="sr-only">Next</span>
                             </a>
@@ -935,7 +935,7 @@
             <div class="row">
                 <div class="col-md-6 w3ls-map">
                     <p class="loc">Nuestra Ubicación</p>
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7973.996061807228!2d-79.8906677!3d-2.1544355!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902d6da6ebbc93b1%3A0x7c53665379637bb1!2sELECTROSUR!5e0!3m2!1ses!2sec!4v1489673666123" width="550" height="300" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7973.996061807228!2d-79.8906677!3d-2.1544355!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902d6da6ebbc93b1%3A0x7c53665379637bb1!2sELECTROSUR!5e0!3m2!1ses!2sec!4v1489673666123" width="550" height="300" style="border:0" allowfullscreen=""></iframe>
                 </div>
                 <div class="col-md-6 ">
                         <p class="loc"> <br>Información de Contáctos</p>

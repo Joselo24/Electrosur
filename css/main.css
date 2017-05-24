@@ -570,6 +570,14 @@ ul.nostyle i {
 #testimonial #carousel-testimonial .btns a {
   margin:0 2px;
 }
+/*  Aumente carousel-testimonial2 para no tener errores de Id Duplicados  */
+#testimonial #carousel-testimonial2 .btns {
+    margin-top: 30px;
+}
+#testimonial #carousel-testimonial2 .btns a {
+  margin:0 2px;
+}
+
 /*************************
 *******About Us******
 **************************/
