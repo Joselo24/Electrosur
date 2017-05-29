@@ -7,6 +7,9 @@
     <meta name=”keywords” content="Electro Sur, Ecuador, Telecomunicaciones, Electricidad, Energía Eléctrica, Regletas de Conexión y Corte, Herrajes para redes de cobre y de fibra óptica, empalmes para redes de cobre y de fibra óptica, Cintas de Vinil y Conectores, Seguridad Industria">
     <meta name="description" content="Ferretería Electro Sur ofrece productos en herrajes y empalmes para redes de cobre y de fibra óptica, Seguridad Industria, Energía Eléctrica y Telecomunicaciones, Cintas de Vinil y Conectores, Regletas de Conexión y Corte para distribución en el Ecuador">
     <meta name="autor" content="José Catagua">
+    <meta name="Robots" content="index, follow">
+    <meta http-equiv="expires" content="Fri, 12 May 2017 1:00:00 GMT" />
+    <meta http-equiv="Content-Language" content="es"/>
     
 	<!-- core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -158,7 +161,7 @@
                 </div>
                 <br>
                 <div class="col-sm-6 wow fadeInLeft">
-                    <img class="img-responsive" src="images/feature-3.jpg" alt="">
+                    <img class="img-responsive" src="images/feature-3.jpg" alt="Edificio Electro Sur">
                 </div>
             </div>
         </div>
