@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Electro Sur, Telecomunicaciones y Electricidad, Energía Eléctrica y Telecomunicaciones, Regletas de Conexión y Corte, herrajes y empalmes para redes de cobre y de fibra óptica, Cintas de Vinil y Conectores, Seguridad Industria</title>
-    <meta name=”keywords” content="Electro Sur, Ecuador, Telecomunicaciones, Electricidad, Energía Eléctrica, Regletas de Conexión y Corte, Herrajes para redes de cobre y de fibra óptica, empalmes para redes de cobre y de fibra óptica, Cintas de Vinil y Conectores, Seguridad Industria">
+    <meta name=”keywords” content="Electro Sur Ecuador Telecomunicaciones Electricidad Energía Eléctrica Herrajes empalmes redes cobre fibra óptica Seguridad Industria">
     <meta name="description" content="Ferretería Electro Sur ofrece productos en herrajes y empalmes para redes de cobre y de fibra óptica, Seguridad Industria, Energía Eléctrica y Telecomunicaciones, Cintas de Vinil y Conectores, Regletas de Conexión y Corte para distribución en el Ecuador">
     <meta name="autor" content="José Catagua">
     <meta name="Robots" content="index, follow">
@@ -211,9 +211,97 @@
 
             <!-- Items Productos -->
             <div class="portfolio-items">
+                
                 <div class="portfolio-item">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/miniposte_mpp1.jpg" alt="">
+                        <img class="img-responsive" src="images/portfolio/cable-aereo.jpg" alt="Cable Aereo">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#aereo">
+                            <h3 class="preview" rel="prettyPhoto">Cable Aereo </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="aereo" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
+                                  <h4 class="modal-title">Cable Aereo </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="paginas/cable-aereo.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/caja-dispersion.jpg" alt="Caja de Dispersión">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#dispersion">
+                            <h3 class="preview" rel="prettyPhoto">Caja de Dispersión </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="dispersion" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
+                                  <h4 class="modal-title">Caja de Dispersión </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="paginas/caja-dispersion.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/caja-distribucion-fibra-optica.jpg" alt="Caja de Distribución de Fibra Óptica">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#distribucion">
+                            <h3 class="preview" rel="prettyPhoto">Caja de Distribución <br><br> de Fibra Óptica </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="distribucion" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
+                                  <h4 class="modal-title">Caja de Distribución de Fibra Óptica </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="paginas/caja-distribucion-fibra-optica.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/miniposte.jpg" alt="Miniposte Polietileno">
                         <div class="portfolio-info" data-toggle="modal" data-target="#miniposte">
                             <h3 class="preview" rel="prettyPhoto">Miniposte Polietileno </h3>
 
@@ -242,22 +330,22 @@
 
                 <div class="portfolio-item">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/miniposte_mpp1.jpg" alt="">
-                        <div class="portfolio-info" data-toggle="modal" data-target="#herraje">
-                            <h3 class="preview" rel="prettyPhoto">Miniposte Polietileno </h3>
+                        <img class="img-responsive" src="images/portfolio/cinta-temflex.jpg" alt="Cinta Aislante Temflex - 3M">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#temflex">
+                            <h3 class="preview" rel="prettyPhoto">Cinta Aislante Temflex - 3M </h3>
 
                             <!-- Modal -->
-                          <div class="modal fade" id="herraje" role="dialog">
+                          <div class="modal fade" id="temflex" role="dialog">
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
                                   <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
-                                  <h4 class="modal-title">Miniposte Polietileno </h4>
+                                  <h4 class="modal-title">Cinta Aislante Temflex - 3M </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="paginas/miniposte1.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/cinta-temflex.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -271,22 +359,22 @@
 
                 <div class="portfolio-item">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/miniposte_mpp1.jpg" alt="">
-                        <div class="portfolio-info" data-toggle="modal" data-target="#herraje1">
-                            <h3 class="preview" rel="prettyPhoto">Miniposte Polietileno </h3>
+                        <img class="img-responsive" src="images/portfolio/cinta-vinil.jpg" alt="Cinta Aislante de Vinil">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#vinil">
+                            <h3 class="preview" rel="prettyPhoto">Cinta Aislante de Vinil </h3>
 
                             <!-- Modal -->
-                          <div class="modal fade" id="herraje1" role="dialog">
+                          <div class="modal fade" id="vinil" role="dialog">
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
                                   <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
-                                  <h4 class="modal-title">Miniposte Polietileno </h4>
+                                  <h4 class="modal-title">Cinta Aislante de Vinil </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/cinta-vinil.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -300,22 +388,22 @@
 
                 <div class="portfolio-item">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/miniposte_mpp1.jpg" alt="">
-                        <div class="portfolio-info" data-toggle="modal" data-target="#herraje2">
-                            <h3 class="preview" rel="prettyPhoto">Miniposte Polietileno </h3>
+                        <img class="img-responsive" src="images/portfolio/cinta-aislante-50.jpg" alt="Cinta Aislante # 50">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#aislante">
+                            <h3 class="preview" rel="prettyPhoto">Cinta Aislante # 50 </h3>
 
                             <!-- Modal -->
-                          <div class="modal fade" id="herraje2" role="dialog">
+                          <div class="modal fade" id="aislante" role="dialog">
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
                                   <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
-                                  <h4 class="modal-title">Miniposte Polietileno </h4>
+                                  <h4 class="modal-title">Cinta Aislante # 50 </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/cinta-aislante-50.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -329,22 +417,22 @@
 
                 <div class="portfolio-item">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/miniposte_mpp1.jpg" alt="">
-                        <div class="portfolio-info" data-toggle="modal" data-target="#herraje3">
-                            <h3 class="preview" rel="prettyPhoto">Miniposte Polietileno </h3>
+                        <img class="img-responsive" src="images/portfolio/cable-awg.jpg" alt="Cable AWG">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#awg">
+                            <h3 class="preview" rel="prettyPhoto">Cable AWG </h3>
 
                             <!-- Modal -->
-                          <div class="modal fade" id="herraje3" role="dialog">
+                          <div class="modal fade" id="awg" role="dialog">
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
                                   <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
-                                  <h4 class="modal-title">Miniposte Polietileno </h4>
+                                  <h4 class="modal-title">Cable AWG </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/cable-awg.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -358,22 +446,22 @@
 
                 <div class="portfolio-item">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/miniposte_mpp1.jpg" alt="">
-                        <div class="portfolio-info" data-toggle="modal" data-target="#herraje4">
-                            <h3 class="preview" rel="prettyPhoto">Miniposte Polietileno </h3>
+                        <img class="img-responsive" src="images/portfolio/cable-ducto.jpg" alt="Cable de Ducto">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#ducto">
+                            <h3 class="preview" rel="prettyPhoto">Cable de Ducto </h3>
 
                             <!-- Modal -->
-                          <div class="modal fade" id="herraje4" role="dialog">
+                          <div class="modal fade" id="ducto" role="dialog">
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
                                   <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
-                                  <h4 class="modal-title">Miniposte Polietileno </h4>
+                                  <h4 class="modal-title">Cable de Ducto </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/cable-ducto.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -387,22 +475,22 @@
 
                 <div class="portfolio-item">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/miniposte_mpp1.jpg" alt="">
-                        <div class="portfolio-info" data-toggle="modal" data-target="#herraje5">
-                            <h3 class="preview" rel="prettyPhoto">Miniposte Polietileno </h3>
+                        <img class="img-responsive" src="images/portfolio/bloque-conexion-desconexion.jpg" alt="Bloque de Conexión y Desconexión">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#bloque">
+                            <h3 class="preview" rel="prettyPhoto">Bloque de Conexión <br><br> y Desconexión </h3>
 
                             <!-- Modal -->
-                          <div class="modal fade" id="herraje5" role="dialog">
+                          <div class="modal fade" id="bloque" role="dialog">
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
                                   <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
-                                  <h4 class="modal-title">Miniposte Polietileno </h4>
+                                  <h4 class="modal-title">Bloque de Conexión y Desconexión </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/bloque-conexion-desconexion.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -416,22 +504,22 @@
 
                 <div class="portfolio-item">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/miniposte_mpp1.jpg" alt="">
-                        <div class="portfolio-info" data-toggle="modal" data-target="#herraje6">
-                            <h3 class="preview" rel="prettyPhoto">Miniposte Polietileno </h3>
+                        <img class="img-responsive" src="images/portfolio/cable-ducto.jpg" alt="Cable de Ducto">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#ducto">
+                            <h3 class="preview" rel="prettyPhoto">Cable de Ducto </h3>
 
                             <!-- Modal -->
-                          <div class="modal fade" id="herraje6" role="dialog">
+                          <div class="modal fade" id="ducto" role="dialog">
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
                                   <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
-                                  <h4 class="modal-title">Miniposte Polietileno </h4>
+                                  <h4 class="modal-title">Cable de Ducto </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/cable-ducto.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -442,6 +530,151 @@
                         </div>
                     </div>
                 </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/cable-ducto.jpg" alt="Cable de Ducto">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#ducto">
+                            <h3 class="preview" rel="prettyPhoto">Cable de Ducto </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="ducto" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
+                                  <h4 class="modal-title">Cable de Ducto </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="paginas/cable-ducto.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/cable-ducto.jpg" alt="Cable de Ducto">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#ducto">
+                            <h3 class="preview" rel="prettyPhoto">Cable de Ducto </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="ducto" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
+                                  <h4 class="modal-title">Cable de Ducto </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="paginas/cable-ducto.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/cable-ducto.jpg" alt="Cable de Ducto">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#ducto">
+                            <h3 class="preview" rel="prettyPhoto">Cable de Ducto </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="ducto" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
+                                  <h4 class="modal-title">Cable de Ducto </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="paginas/cable-ducto.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/cable-ducto.jpg" alt="Cable de Ducto">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#ducto">
+                            <h3 class="preview" rel="prettyPhoto">Cable de Ducto </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="ducto" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
+                                  <h4 class="modal-title">Cable de Ducto </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="paginas/cable-ducto.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/cable-ducto.jpg" alt="Cable de Ducto">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#ducto">
+                            <h3 class="preview" rel="prettyPhoto">Cable de Ducto </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="ducto" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
+                                  <h4 class="modal-title">Cable de Ducto </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="paginas/cable-ducto.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->                
             </div>  <!--/.portfolio-items--> 
 
                                 </div>
