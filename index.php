@@ -504,22 +504,22 @@
 
                 <div class="portfolio-item">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/cable-ducto.jpg" alt="Cable de Ducto">
-                        <div class="portfolio-info" data-toggle="modal" data-target="#ducto">
-                            <h3 class="preview" rel="prettyPhoto">Cable de Ducto </h3>
+                        <img class="img-responsive" src="images/portfolio/cinta-acero.jpg" alt="Cinta de Acero">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#acero">
+                            <h3 class="preview" rel="prettyPhoto">Cinta de Acero </h3>
 
                             <!-- Modal -->
-                          <div class="modal fade" id="ducto" role="dialog">
+                          <div class="modal fade" id="acero" role="dialog">
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
                                   <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
-                                  <h4 class="modal-title">Cable de Ducto </h4>
+                                  <h4 class="modal-title">Cinta de Acero </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="paginas/cable-ducto.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/cinta-acero.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -533,22 +533,22 @@
 
                 <div class="portfolio-item">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/cable-ducto.jpg" alt="Cable de Ducto">
-                        <div class="portfolio-info" data-toggle="modal" data-target="#ducto">
-                            <h3 class="preview" rel="prettyPhoto">Cable de Ducto </h3>
+                        <img class="img-responsive" src="images/portfolio/cinta-aluminio.jpg" alt="Cinta de Aluminio">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#aluminio">
+                            <h3 class="preview" rel="prettyPhoto">Cinta de Aluminio </h3>
 
                             <!-- Modal -->
-                          <div class="modal fade" id="ducto" role="dialog">
+                          <div class="modal fade" id="aluminio" role="dialog">
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
                                   <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
-                                  <h4 class="modal-title">Cable de Ducto </h4>
+                                  <h4 class="modal-title">Cinta de Aluminio </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="paginas/cable-ducto.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/cinta-aluminio.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -562,22 +562,22 @@
 
                 <div class="portfolio-item">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/cable-ducto.jpg" alt="Cable de Ducto">
-                        <div class="portfolio-info" data-toggle="modal" data-target="#ducto">
-                            <h3 class="preview" rel="prettyPhoto">Cable de Ducto </h3>
+                        <img class="img-responsive" src="images/portfolio/cinta-masilla.jpg" alt="Cinta Masilladora Scotchfil">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#masilla">
+                            <h3 class="preview" rel="prettyPhoto">Cinta Masilladora Scotchfil </h3>
 
                             <!-- Modal -->
-                          <div class="modal fade" id="ducto" role="dialog">
+                          <div class="modal fade" id="masilla" role="dialog">
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
                                   <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
-                                  <h4 class="modal-title">Cable de Ducto </h4>
+                                  <h4 class="modal-title">Cinta Masilladora Scotchfil </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="paginas/cable-ducto.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/cinta-masilla.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -591,22 +591,22 @@
 
                 <div class="portfolio-item">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/cable-ducto.jpg" alt="Cable de Ducto">
-                        <div class="portfolio-info" data-toggle="modal" data-target="#ducto">
-                            <h3 class="preview" rel="prettyPhoto">Cable de Ducto </h3>
+                        <img class="img-responsive" src="images/portfolio/comelon-klein.jpg" alt="Comelon Klein">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#comelon">
+                            <h3 class="preview" rel="prettyPhoto">Comelon Klein </h3>
 
                             <!-- Modal -->
-                          <div class="modal fade" id="ducto" role="dialog">
+                          <div class="modal fade" id="comelon" role="dialog">
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
                                   <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
-                                  <h4 class="modal-title">Cable de Ducto </h4>
+                                  <h4 class="modal-title">Comelon Klein </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="paginas/cable-ducto.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/comelon-klein.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -620,22 +620,22 @@
 
                 <div class="portfolio-item">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/cable-ducto.jpg" alt="Cable de Ducto">
-                        <div class="portfolio-info" data-toggle="modal" data-target="#ducto">
-                            <h3 class="preview" rel="prettyPhoto">Cable de Ducto </h3>
+                        <img class="img-responsive" src="images/portfolio/conector-acometida.jpg" alt="Conector Acometida U1R – 3M">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#acometida">
+                            <h3 class="preview" rel="prettyPhoto">Conector Acometida U1R – 3M </h3>
 
                             <!-- Modal -->
-                          <div class="modal fade" id="ducto" role="dialog">
+                          <div class="modal fade" id="acometida" role="dialog">
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
                                   <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
-                                  <h4 class="modal-title">Cable de Ducto </h4>
+                                  <h4 class="modal-title">Conector Acometida U1R – 3M </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="paginas/cable-ducto.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/conector-acometida.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -649,22 +649,22 @@
 
                 <div class="portfolio-item">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/cable-ducto.jpg" alt="Cable de Ducto">
-                        <div class="portfolio-info" data-toggle="modal" data-target="#ducto">
-                            <h3 class="preview" rel="prettyPhoto">Cable de Ducto </h3>
+                        <img class="img-responsive" src="images/portfolio/conector-modular-4000.jpg" alt="Conector Modular Desconectable 4000 G/TR">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#modular">
+                            <h3 class="preview" rel="prettyPhoto">Conector Modular <br><br> Desconectable 4000 G/TR </h3>
 
                             <!-- Modal -->
-                          <div class="modal fade" id="ducto" role="dialog">
+                          <div class="modal fade" id="modular" role="dialog">
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
                                   <button type="button" class="close" data-dismiss="modal">&times;</button>
                                   <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
-                                  <h4 class="modal-title">Cable de Ducto </h4>
+                                  <h4 class="modal-title">Conector Modular Desconectable 4000 G/TR </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="paginas/cable-ducto.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/conector-modular-4000.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -674,7 +674,355 @@
                           </div> <!-- /.Modal -->
                         </div>
                     </div>
-                </div><!--/.portfolio-item-->                
+                </div><!--/.portfolio-item-->           
+
+                <div class="portfolio-item">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/conector-modular-4005.jpg" alt="Conector Modular Desconectable 4005 GBM/TR">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#modular4005">
+                            <h3 class="preview" rel="prettyPhoto">Conector Modular <br><br> Desconectable 4005 GBM/TR </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="modular4005" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
+                                  <h4 class="modal-title">Conector Modular Desconectable 4005 GBM/TR </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="paginas/conector-modular-4005.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->   
+
+                <div class="portfolio-item">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/maleta-herramienta-ucn.jpg" alt="Maleta de Herramientas UC/UCN - CORNING">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#maletaucn">
+                            <h3 class="preview" rel="prettyPhoto">Maleta de Herramientas <br><br> UC/UCN - CORNING </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="maletaucn" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
+                                  <h4 class="modal-title">Maleta de Herramientas UC/UCN - CORNING </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="paginas/maleta-herramienta-ucn.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->   
+
+                <div class="portfolio-item">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/maquina-enzunchadora.jpg" alt="Máquina Enzunchadora BAND-IT">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#enzunchadora">
+                            <h3 class="preview" rel="prettyPhoto">Máquina Enzunchadora BAND-IT </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="enzunchadora" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
+                                  <h4 class="modal-title">Máquina Enzunchadora BAND-IT </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="paginas/maquina-enzunchadora.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->   
+
+                <div class="portfolio-item">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/proteccion-magazine.jpg" alt="Protección - Magazine de 10 Pares Ericsson">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#magazine">
+                            <h3 class="preview" rel="prettyPhoto">Protección - Magazine <br><br> de 10 Pares Ericsson </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="magazine" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
+                                  <h4 class="modal-title">Protección - Magazine de 10 Pares Ericsson </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="paginas/proteccion-magazine.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->   
+
+                <div class="portfolio-item">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/conector-modular-4000.jpg" alt="Conector Modular Desconectable 4000 G/TR">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#modular">
+                            <h3 class="preview" rel="prettyPhoto">Conector Modular <br><br> Desconectable 4000 G/TR </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="modular" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
+                                  <h4 class="modal-title">Conector Modular Desconectable 4000 G/TR </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="paginas/conector-modular-4000.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->   
+
+                <div class="portfolio-item">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/conector-modular-4000.jpg" alt="Conector Modular Desconectable 4000 G/TR">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#modular">
+                            <h3 class="preview" rel="prettyPhoto">Conector Modular <br><br> Desconectable 4000 G/TR </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="modular" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
+                                  <h4 class="modal-title">Conector Modular Desconectable 4000 G/TR </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="paginas/conector-modular-4000.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->   
+
+                <div class="portfolio-item">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/conector-modular-4000.jpg" alt="Conector Modular Desconectable 4000 G/TR">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#modular">
+                            <h3 class="preview" rel="prettyPhoto">Conector Modular <br><br> Desconectable 4000 G/TR </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="modular" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
+                                  <h4 class="modal-title">Conector Modular Desconectable 4000 G/TR </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="paginas/conector-modular-4000.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->   
+
+                <div class="portfolio-item">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/conector-modular-4000.jpg" alt="Conector Modular Desconectable 4000 G/TR">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#modular">
+                            <h3 class="preview" rel="prettyPhoto">Conector Modular <br><br> Desconectable 4000 G/TR </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="modular" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
+                                  <h4 class="modal-title">Conector Modular Desconectable 4000 G/TR </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="paginas/conector-modular-4000.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->   
+
+                <div class="portfolio-item">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/conector-modular-4000.jpg" alt="Conector Modular Desconectable 4000 G/TR">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#modular">
+                            <h3 class="preview" rel="prettyPhoto">Conector Modular <br><br> Desconectable 4000 G/TR </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="modular" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
+                                  <h4 class="modal-title">Conector Modular Desconectable 4000 G/TR </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="paginas/conector-modular-4000.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->   
+
+                <div class="portfolio-item">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/conector-modular-4000.jpg" alt="Conector Modular Desconectable 4000 G/TR">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#modular">
+                            <h3 class="preview" rel="prettyPhoto">Conector Modular <br><br> Desconectable 4000 G/TR </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="modular" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
+                                  <h4 class="modal-title">Conector Modular Desconectable 4000 G/TR </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="paginas/conector-modular-4000.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->   
+
+                <div class="portfolio-item">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/conector-modular-4000.jpg" alt="Conector Modular Desconectable 4000 G/TR">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#modular">
+                            <h3 class="preview" rel="prettyPhoto">Conector Modular <br><br> Desconectable 4000 G/TR </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="modular" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
+                                  <h4 class="modal-title">Conector Modular Desconectable 4000 G/TR </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="paginas/conector-modular-4000.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->   
+
+                <div class="portfolio-item">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/conector-modular-4000.jpg" alt="Conector Modular Desconectable 4000 G/TR">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#modular">
+                            <h3 class="preview" rel="prettyPhoto">Conector Modular <br><br> Desconectable 4000 G/TR </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="modular" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
+                                  <h4 class="modal-title">Conector Modular Desconectable 4000 G/TR </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="paginas/conector-modular-4000.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->        
             </div>  <!--/.portfolio-items--> 
 
                                 </div>
