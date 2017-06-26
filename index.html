@@ -52,7 +52,7 @@
                     <!-- logo -->
                     <div class="navbar-brand">
                         <a class="smooth-scroll" data-section="#home" href="#home" >
-                            <img class="img-responsive" src="images/logo.png" alt="">
+                            <img class="img-responsive" src="images/logo.png" alt="Logo de Electro Sur">
                         </a>
                     </div>
                     <!-- /logo -->
@@ -161,7 +161,7 @@
                 </div>
                 <br>
                 <div class="col-sm-6 wow fadeInLeft">
-                    <img class="img-responsive" src="images/feature-3.jpg" alt="Edificio Electro Sur">
+                    <img class="img-responsive" src="images/edificio-electrosur.png" alt="Edificio Electro Sur">
                 </div>
             </div>
         </div>
@@ -1032,22 +1032,21 @@
             <div class="portfolio-items">
                 <div class="portfolio-item">
                     <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/miniposte_mpp1.jpg" alt="">
-                        <div class="portfolio-info" data-toggle="modal" data-target="#miniposte1">
-                            <h3 class="preview" rel="prettyPhoto">Miniposte Polietileno </h3>
+                        <img class="img-responsive" src="images/portfolio/cables-interiores-plenum.png" alt="Cables para Interiores Plenum - Corning">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#cablesInterioresPlenum">
+                            <h3 class="preview" rel="prettyPhoto"> Corning - Cables <br><br> Para Interiores Plenum</h3>
 
                             <!-- Modal -->
-                          <div class="modal fade" id="miniposte1" role="dialog">
+                          <div class="modal fade" id="cablesInterioresPlenum" role="dialog">
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
-                                  <h4 class="modal-title">Miniposte Polietileno </h4>
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>   
+                                  <h4 class="modal-title">Cables para Interiores Plenum - Corning </h4>
                                 </div>
                                 <div class="modal-body">
                                     <!-- Detalle del Producto -->
-                                  <embed src="paginas/miniposte.html" class="pdf_estilo"></embed>
+                                  <embed src="paginas/cables-interiores-plenum.html" class="pdf_estilo"></embed>
                                 </div>
                                 <div class="modal-footer">
                                   <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
@@ -1425,7 +1424,7 @@
                         </div> -->
                         <div class="media-body izq-justify" >
                             <h4 class="media-heading">Herrajerias para redes de Fibra</h4>
-                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
+                            <p><strong>Abrazaderas:</strong> para Poste con Brazo Tensor – para Poste Simple – tipo I con Mordaza <br> <strong>Herrajes:</strong> de paso tipo L – F.O. tipo B – Terminal con gancho <br> <strong>Bases:</strong> con Gancho – con Perno de Ojo</p>
                         </div>
                     </div>
 
@@ -1435,7 +1434,7 @@
                         </div> -->
                         <div class="media-body izq-justify">
                             <h4 class="media-heading">Herrajerias para redes de Cobre</h4>
-                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
+                            <p><strong>Herrajes:</strong> tipo Q, L, de Paso, Terminal, de Poste <br> <strong>Abrazaderas:</strong> – Bases – Brazo Tensor – Gancho Terminal – Grapa de Acero – Grilletes – Lamina de Sujeción – Perno de Ojo – Soportes Cajas Dispersión – Lagarto </p>
                         </div>
                     </div>
 
@@ -1444,8 +1443,8 @@
                             <img class="box-border img-responsive" src="images/portfolio/icon_cajapresion.png">
                         </div> -->
                         <div class="media-body izq-justify">
-                            <h4 class="media-heading">Caja de Presión</h4>
-                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
+                            <h4 class="media-heading">Rosetas</h4>
+                            <p>Instalaciones FTTH mediante rosetas pre-conectorizadas en fábrica para un menor tiempo de instalación, con mayor calidad y evitando los delicados procesos de fusión de fibras ópticas.</p>
                         </div>
                     </div>
 
@@ -1455,7 +1454,7 @@
                         </div> -->
                         <div class="media-body izq-justify">
                             <h4 class="media-heading">Mangas</h4>
-                            <p>Hebilla fabricada en Acero Inoxidable AISI 201, código B-C 254, para cintas de 3/4" ; acabado brillante estándar con una combinación de alta fuerza y el aspecto de calidad. Ofrece una buena resistencia a la oxidación y a muchos agentes corrosivos moderados.</p>
+                            <p>Manga termocontráctil para empalme de fibra óptica de 60 x 3 mm, paquete con 50 piezas.</p>
                         </div>
                     </div>
                 </div>
@@ -1485,15 +1484,15 @@
                         <div class="carousel-inner" role="listbox">
                             <div class="item active">
                                 <p><img class="img-circle img-thumbnail" src="images/testimonial/01.jpg" alt=""></p>
-                                <h4>Jose Catagua</h4>
-                                <small>Diseño y Desarrollo de Páginas Web y Proyectos Multimedia.</small>
-                                <p>Soy conocedor y defensor de los estándares, de la accesibilidad, de la usabilidad, de velar por la experiencia del usuario.</p>
+                                <h4>Abogado Julio León</h4>
+                                <small>Gerente General Electro Sur</small>
+                                <p>Cómo profesional comprometido con el derecho, mi principal objetivo es ofrecer un servicio de gran calidad a los clientes, siguiendo la ética profesional y con responsabilidad social.</p>
                             </div>
                             <div class="item">
                                 <p><img class="img-circle img-thumbnail" src="images/testimonial/01.jpg" alt=""></p>
-                                <h4>Louise S. Morgan</h4>
-                                <small>Gerente General Electro Sur</small>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam</p>
+                                <h4>Lic. Jose Catagua</h4>
+                                <small>Diseño y Desarrollo de Páginas Web y Proyectos Multimedia.</small>
+                                <p>Soy conocedor y defensor de los estándares de usabilidad, de la accesibilidad, de velar por la experiencia del usuario.</p>
                             </div>
                         </div>
 

@@ -13,18 +13,42 @@
   <link rel="stylesheet" href="../css/bootstrap.min.css">
   <link rel="stylesheet" href="../css/font-awesome.css">
   <link rel="stylesheet" href="../css/font-awesome.min.css">
+  <link href="../css/main.css" rel="stylesheet">
+  <link href="../css/responsive.css" rel="stylesheet">
   <script src="../js/jquery.min.js"></script>
   <script src="../js/bootstrap.min.js"></script>
  
 </head>
 <body>
 
-<div class="container">
-  
+ <header id="top-header" class="navbar-inverse navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <!-- logo -->
+        <div class="navbar-brand">
+          <a href="../index.php" >
+            <img class="img-responsive" src="../images/logo.png" alt="Logo de la Electro Sur">
+          </a>
+        </div>
+        <!-- /logo -->
+      </div>
+
+      <!-- main nav -->
+      <nav class="collapse navbar-collapse navbar-right" role="navigation">
+        <div class="main-menu">
+          
+        </div>
+      </nav>
+      <!-- /main nav -->
+    </div>
+  </header>
+
+<div class="container">  
   <ul class="nav nav-tabs">
     <li class="active"><a data-toggle="tab" href="#deta">Detalle</a></li>
     <!-- <li><a data-toggle="tab" href="#detalle">Detalle</a></li> -->
     <li><a data-toggle="tab" href="#espe">Especificaciones</a></li>
+    <li><a data-toggle="tab" href="#conta">Contácto</a></li>
     <li><a target="_blank" href="../fichas/proteccion-magazine.pdf"><i style="font-size:18px;" class="fa fa-download"></i> Ficha Técnica</a></li>                       
   </ul>
 
@@ -91,6 +115,80 @@
         <!-- </div> Fin Inicio Tabla--> 
       </div>
     </div><!-- FIN ESPECIFICACIONES -->
+
+     <div id="conta" class="tab-pane fade">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6 w3ls-map">
+            <p class="loc">Nuestra Ubicación</p>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7973.996061807228!2d-79.8906677!3d-2.1544355!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902d6da6ebbc93b1%3A0x7c53665379637bb1!2sELECTROSUR!5e0!3m2!1ses!2sec!4v1489673666123" width="550" height="300" style="border:0" allowfullscreen=""></iframe>
+          </div>
+          <div class="col-sm-6 ">
+            <p class="loc"> <br>Información de Contáctos</p>
+                                                
+            <div class="media service-box wow fadeInRight">
+              <div class="pull-left">
+                <i class="fa fa-phone social-icons"></i>
+              </div>
+              <div class="media-body">                                      
+                <p><abbr title="Celular">C:</abbr> (593-9) 93620590 <br><abbr title="Teléfono">T:</abbr> (593-4) 2924 962 – (593-4) 2924 941 – Ext. 101 <br> &emsp;(593-4) 2924 864 – (593-4) 2925 023 – Ext. 101 <br>  <abbr title="Fax">F:</abbr> 2926 023  </p>
+              </div>
+            </div>
+            <div class="media service-box wow fadeInRight">
+              <div class="pull-left">
+                <i class="fa fa-map-marker social-icons"></i>
+              </div>
+              <div class="media-body">                                      
+                <p>Cdla. Simón Bolívar Mz. 1, <br>Calle Leopoldo Benítez, Solar 10 y Av. 2N-E</p>
+              </div>
+            </div>
+            <div class="media service-box wow fadeInRight">
+              <div class="pull-left">
+                <i class="fa fa-envelope social-icons"></i>
+              </div>
+              <div class="media-body">                                      
+                <p><a href="mailto:ventas@electrosur.com.ec">ventas@electrosur.com.ec </a></p>
+                <p><a href="mailto:sofia@electrosur.com.ec"> sofia@electrosur.com.ec </a></p>
+              </div>
+            </div>
+                                                       
+          </div>
+          <div class="section-header">
+            <h2 class="section-title text-center wow fadeInDown animated" style="visibility: visible;"><br>Enviar Mensaje</h2>
+            <p class="text-center wow fadeInDown animated" style="visibility: visible;">Escribenos unas lineas. Tus palabras son importantes para nosotros.</p>
+          </div>
+
+          <form id="main-contact-form" action="../enviar.php" class="contact-form" name="contact-form" method="post" >
+            <div class="col-sm-6 animated animate-from-left" style="opacity: 1; left: 0px;">
+              <div class="form-group">
+                <label for="input_name">Nombre (Requerido)</label>
+                <input id="input_name" type="text" name="nombres" class="form-control" placeholder="Jose Catagua" required="">
+              </div>
+              <div class="form-group">
+                <label for="input_email">Correo Electrónico</label>
+                <input type="email" id="input_email" name="email" class="form-control" placeholder="alguien@ejemplo.com" required="">
+              </div>
+              <div class="form-group">
+                <label for="input_subject">Tema</label>
+                <input type="text" id="input_subject" name="subject" class="form-control" placeholder="Herrajeria" required="">
+              </div>
+
+            </div>
+            <div class="col-sm-6 animated animate-from-right" style="opacity: 1; right: 0px;">
+              <div class="form-group">
+                  <label for="textarea_mensaje">Tu Mensaje</label>
+                  <textarea id="textarea_mensaje" name="mensaje" class="form-control" rows="8" placeholder="Me interesa saber el precio..." required=""></textarea>
+              </div>
+            </div>
+            <div class="clearfix"></div>
+            <div class="text-center">
+                <input type="submit" name="submit" class="btn btn-primary btn-lg btn-send-msg" value="Enviar Mensaje">
+            </div>
+          </form>
+
+            </div>
+        </div>
+    </div><!-- FIN CONTACTO -->
 
   </div>
 </div>
