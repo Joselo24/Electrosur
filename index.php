@@ -68,6 +68,7 @@
                             <li class="scroll"><a href="#services" data-section="#services">Destacados</a></li>
                             <li class="scroll"><a href="#features" data-section="#features">Proveedores</a></li>
                             <li class="scroll"><a href="#contact-area" data-section="#contact-area">Contáctenos</a></li>
+                            <li class="scroll"><a target="_blank" href="https://www.electrosur.com.ec" title="Blog de Electro Sur">Blog</a></li>
                         </ul>
                     </div>
                 </nav>
@@ -790,7 +791,41 @@
                           </div> <!-- /.Modal -->
                         </div>
                     </div>
-                </div><!--/.portfolio-item-->   
+                </div><!--/.portfolio-item-->
+
+                <!-- VER MAS PRODUCTOS DESTACADOS -->
+                <div class="wow fadeInLeft">
+                <a class="btn pull-right" data-toggle="fade" data-target="#mas"><strong>Ver más...</strong></a>...
+                </div>  
+
+                <div class="portfolio-item">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/conector-modular-4000.jpg" alt="Conector Modular Desconectable 4000 G/TR">
+                        <div class="portfolio-info" data-toggle="modal" data-target="#modular">
+                            <h3 class="preview" rel="prettyPhoto">Conector Modular <br><br> Desconectable 4000 G/TR </h3>
+
+                            <!-- Modal -->
+                          <div class="modal fade" id="modular" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
+                                  <h4 class="modal-title">Conector Modular Desconectable 4000 G/TR </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Detalle del Producto -->
+                                  <embed src="paginas/conector-modular-4000.html" class="pdf_estilo"></embed>
+                                </div>
+                                <div class="modal-footer">
+                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
+                                </div>
+                              </div>
+                            </div>
+                          </div> <!-- /.Modal -->
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->  
 
                 <div class="portfolio-item">
                     <div class="portfolio-item-inner">
@@ -993,36 +1028,7 @@
                           </div> <!-- /.Modal -->
                         </div>
                     </div>
-                </div><!--/.portfolio-item-->   
-
-                <div class="portfolio-item">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/conector-modular-4000.jpg" alt="Conector Modular Desconectable 4000 G/TR">
-                        <div class="portfolio-info" data-toggle="modal" data-target="#modular">
-                            <h3 class="preview" rel="prettyPhoto">Conector Modular <br><br> Desconectable 4000 G/TR </h3>
-
-                            <!-- Modal -->
-                          <div class="modal fade" id="modular" role="dialog">
-                            <div class="modal-dialog modal-lg">
-                              <div class="modal-content">
-                                <div class="modal-header">
-                                  <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                  <a><img class="img-responsive" src="images/logo1.jpg" alt="Logotipo de Electro Sur"></a>   
-                                  <h4 class="modal-title">Conector Modular Desconectable 4000 G/TR </h4>
-                                </div>
-                                <div class="modal-body">
-                                    <!-- Detalle del Producto -->
-                                  <embed src="paginas/conector-modular-4000.html" class="pdf_estilo"></embed>
-                                </div>
-                                <div class="modal-footer">
-                                  <a class="btn pull-left" data-dismiss="modal"><span class="fa fa-arrow-circle-o-left" style="font-size:36px; color: #1a75ff;"></span></a>
-                                </div>
-                              </div>
-                            </div>
-                          </div> <!-- /.Modal -->
-                        </div>
-                    </div>
-                </div><!--/.portfolio-item-->        
+                </div><!--/.portfolio-item--> 
             </div>  <!--/.portfolio-items--> 
 
                                 </div>
@@ -1030,6 +1036,7 @@
 
             <!-- Items Productos -->
             <div class="portfolio-items">
+            <div>LOOSE TUBE</div>
                 <div class="portfolio-item">
                     <div class="portfolio-item-inner">
                         <img class="img-responsive" src="images/portfolio/miniposte_mpp1.jpg" alt="">
@@ -1146,6 +1153,14 @@
                     </div>
                 </div><!--/.portfolio-item-->
 
+
+
+                <!-- PRUEBA DE MENU DE FIBRA OPTICA -->
+                <div>LOOSE TUBE</div>
+
+
+
+
                 <div class="portfolio-item">
                     <div class="portfolio-item-inner">
                         <img class="img-responsive" src="images/portfolio/miniposte_mpp1.jpg" alt="">
@@ -1203,6 +1218,13 @@
                         </div>
                     </div>
                 </div><!--/.portfolio-item-->
+
+
+
+                <div>RIBBON</div>
+
+
+
             </div>  <!--/.portfolio-items-->
                                     
                                 </div>
@@ -1597,7 +1619,9 @@
                         <span class="fa fa-chevron-up social-icons"></span>
                     </a>
                     <p class="text-center"><br>
-                        &copy; Todos los derechos reservados - Electro Sur CIA. LTDA. 2017 <br><a target="_blank" href="http://www.electrosur.com.ec" title="Empresa de Telecomunicaciones"> Visita Nuestro Blog</a>
+                        &copy; Todos los derechos reservados - Electro Sur CIA. LTDA. 2017 <br>
+                        <a target="_blank" href="http://www.electrosur.com.ec" title="Blog de Electro Sur"> Visita Nuestro Blog <i class="fa fa-wordpress" style="color: orange;"></i></a> <br>
+                        <a target="_blank" href="https://cpanel.electrosur.com.ec" title="Página Prinipal - CPanel"><i class="fa fa-link" style="color: orange;"></i> Login CPanel</a>
                     </p>
                     
                     <ul class="social-icons text-center">
